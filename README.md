@@ -12,5 +12,3 @@
 
 - 目录名使用 `<任务>_policy_v<六位版本号>`，候选在版本号后加 `-candidate`。
 - 发布时为该任务新建版本目录并更新索引。每个版本保留 `README.md` 和 `manifest.json`，记录入口、来源和验证范围。
-
-RoboCasa365 逐实例代码和早期机场工作流归档在原 RSI 工作区。抓可乐的真机接口见 [DEPLOYMENT.md](tianji_cola_policy_v000003/DEPLOYMENT.md)。
