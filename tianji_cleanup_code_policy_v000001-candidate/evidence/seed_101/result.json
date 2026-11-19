@@ -1,0 +1,44 @@
+{
+  "status": "error",
+  "reason": null,
+  "error_type": "RuntimeError",
+  "error_message": "Native safety stop; inspect RGB, no privileged details exposed",
+  "traceback": "Traceback (most recent call last):\n  File \"/data1/liuming/RSI/vendor/PyRUA-Lean/src/pyrualean/runner.py\", line 132, in run_policy\n    result = policy(robo)\n  File \"/data1/liuming/RSI/scripts/run_tianji_rgb_evolution.py\", line 73, in execute\n    value = policy(robot, target_stage, can_index) if target_stage else policy(robot)\n  File \"/data1/liuming/RSI/runs/tianji_cleanup/frozen_validation_20261106_f/seed_101/workspace/policy.py\", line 462, in policy\n    return RGBPolicy(robo).execute()\n  File \"/data1/liuming/RSI/runs/tianji_cleanup/frozen_validation_20261106_f/seed_101/workspace/policy.py\", line 455, in execute\n    self.transport_release()\n  File \"/data1/liuming/RSI/runs/tianji_cleanup/frozen_validation_20261106_f/seed_101/workspace/policy.py\", line 402, in transport_release\n    self.line(goal)\n  File \"/data1/liuming/RSI/runs/tianji_cleanup/frozen_validation_20261106_f/seed_101/workspace/policy.py\", line 79, in line\n    self.send(self.line_plan(np.asarray(point), self.command))\n  File \"/data1/liuming/RSI/runs/tianji_cleanup/frozen_validation_20261106_f/seed_101/workspace/policy.py\", line 33, in send\n    self.robo.action_sequence([list(map(float, row)) for row in actions]).commanded_action\n  File \"/data1/liuming/RSI/tianji/rgb/robot.py\", line 140, in action_sequence\n    return self._stateful(\n  File \"/data1/liuming/RSI/vendor/PyRUA-Lean/src/pyrualean/_robot.py\", line 327, in _stateful\n    payload, envelope = unwrap(self._backend.execute_tool(tool, kwargs), tool)\n  File \"/data1/liuming/RSI/tianji/rgb/backend.py\", line 321, in execute_tool\n    return self._act(args[\"actions\"])\n  File \"/data1/liuming/RSI/tianji/rgb/backend.py\", line 266, in _act\n    self._exchange({\"operation\": \"step\", \"actions\": actions[i : i + 600]})\n  File \"/data1/liuming/RSI/tianji/rgb/backend.py\", line 197, in _exchange\n    return self._exchange_locked(request)\n  File \"/data1/liuming/RSI/tianji/rgb/backend.py\", line 251, in _exchange_locked\n    raise RuntimeError(\"Native safety stop; inspect RGB, no privileged details exposed\")\nRuntimeError: Native safety stop; inspect RGB, no privileged details exposed\n",
+  "elapsed_s": 163.52536186482757,
+  "environment_success": false,
+  "seed": 101,
+  "scenario": "nominal",
+  "worker_slot": 0,
+  "llm_calls": 0,
+  "vla_calls": 0,
+  "policy_sha256": "3e3e5eb9c0304eabe8f8a7d001e26a4a9fdcbe4de9f122774c754e9b130f7413",
+  "repeat": 0,
+  "from_reset": true,
+  "evaluation_scope": "full_workflow",
+  "target_stage": null,
+  "object_count": 1,
+  "evaluation_protocol": "cleanup_cup_to_bin_rgb_v1",
+  "native_evidence": {
+    "bilateral_contact": [
+      true
+    ],
+    "lift_verified": [
+      true
+    ],
+    "placement_valid": [
+      false
+    ],
+    "object_indices_in_execution_order": [
+      0
+    ],
+    "expected_arms": [
+      "left"
+    ]
+  },
+  "single_left_contract": {
+    "object_count": 1,
+    "expected_arm": "left",
+    "wrong_arm_lift": false,
+    "complete": false
+  }
+}

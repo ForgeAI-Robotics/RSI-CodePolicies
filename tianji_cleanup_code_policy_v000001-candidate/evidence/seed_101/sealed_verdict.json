@@ -1,0 +1,61 @@
+{
+  "task_success": false,
+  "evaluation_protocol": "cleanup_cup_to_bin_rgb_v1",
+  "object_count": 1,
+  "final_cans": [
+    {
+      "position_m": [
+        0.18339838087558746,
+        0.43749913573265076,
+        0.022747941315174103
+      ],
+      "orientation_wxyz": [
+        0.1548769772052765,
+        -0.034526973962783813,
+        -0.33478212356567383,
+        0.9288390278816223
+      ],
+      "linear_velocity_m_s": [
+        -0.03965790569782257,
+        0.005453442223370075,
+        -0.0017386266263201833
+      ],
+      "angular_velocity_rad_s": [
+        -0.15169519186019897,
+        -0.8193497061729431,
+        0.8941097259521484
+      ],
+      "placement_valid": false
+    }
+  ],
+  "bilateral_contact": [
+    true
+  ],
+  "lift_verified": [
+    true
+  ],
+  "grippers_open": false,
+  "bilateral_contact_by_arm": {
+    "left": [
+      true
+    ],
+    "right": [
+      false
+    ]
+  },
+  "lift_verified_by_arm": {
+    "left": [
+      true
+    ],
+    "right": [
+      false
+    ]
+  },
+  "bin_support_verified": true,
+  "hand_detached_after_drop": false,
+  "whole_cup_contained_in_bin": false,
+  "action_count": 1249,
+  "max_actions": 4500,
+  "error": "Forbidden robot contact:{'actors': ['/World/CleanupCup', '/s100_tianji_camera_preserved_20261019/root_joint/chassis_base'], 'impulse': [-0.003916258458048105, 0.019581301137804985, 0.03916262835264206], 'separation_m': -0.003950668498873711}",
+  "physics_steps": 15713
+}

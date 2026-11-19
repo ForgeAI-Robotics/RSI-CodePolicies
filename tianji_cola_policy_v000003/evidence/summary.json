@@ -1,0 +1,119 @@
+{
+  "version": "v000003",
+  "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+  "native_successes": 12,
+  "case_count": 12,
+  "real_robot_tested": false,
+  "held_out_layouts_tested": false,
+  "portable_adapter_tested_in_simulation": false,
+  "cases": [
+    {
+      "seed": 101,
+      "scenario": "combined_goal",
+      "repeat": 0,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 102,
+      "scenario": "pick_goal",
+      "repeat": 0,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 101,
+      "scenario": "combined_goal",
+      "repeat": 1,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 102,
+      "scenario": "pick_goal",
+      "repeat": 1,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 101,
+      "scenario": "pick_goal",
+      "repeat": 0,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 103,
+      "scenario": "combined_goal",
+      "repeat": 0,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 101,
+      "scenario": "pick_goal",
+      "repeat": 1,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 103,
+      "scenario": "combined_goal",
+      "repeat": 1,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 102,
+      "scenario": "combined_goal",
+      "repeat": 0,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 103,
+      "scenario": "pick_goal",
+      "repeat": 0,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 102,
+      "scenario": "combined_goal",
+      "repeat": 1,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    },
+    {
+      "seed": 103,
+      "scenario": "pick_goal",
+      "repeat": 1,
+      "environment_success": true,
+      "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+      "llm_calls": 0,
+      "vla_calls": 0
+    }
+  ]
+}

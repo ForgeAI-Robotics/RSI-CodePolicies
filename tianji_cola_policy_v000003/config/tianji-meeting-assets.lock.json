@@ -1,0 +1,513 @@
+{
+  "repository": "https://github.com/ForgeAI-Robotics/fq-assets",
+  "revision": "96c67303b8cf4fae6da0f0d2da58990b69ea3bf8",
+  "scene": "scenes/fq/office_baseline/scene.usda",
+  "files": {
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_00_0.stl": {
+      "sha256": "419be431cd7b3e08d59165647580c0cc48727b291794a1224731b9fefbc38aec",
+      "bytes": 6384,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_01_0.stl": {
+      "sha256": "9b2f4306ed0cbcf66160b3c0a464d5a9f3a7c3437039af212069082f3726fed1",
+      "bytes": 70884,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_02_0.stl": {
+      "sha256": "2633b040c1059bec80eb903970b93dc1726491c07c8b6672a6053ac16fc0434f",
+      "bytes": 70884,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_03_0.stl": {
+      "sha256": "4f9accb2c81cf02577694c954a60ee1642c917c6b564ec951bc32d396431e6a1",
+      "bytes": 924984,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_04_0.stl": {
+      "sha256": "7102d23fe92e31d065f657255e11c258b43d555df578a88c433b9f14315bdc01",
+      "bytes": 8684,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_05_0.stl": {
+      "sha256": "b9e5a282daba13738edcb0c423eafb5d0c6fbc60938f9920caf27447122de63b",
+      "bytes": 5684,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_06_0.stl": {
+      "sha256": "861231f3bedb7512ba082e14c822fd5c4e6c6b44a824aa360498db324fbffeef",
+      "bytes": 3084,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_07_0.stl": {
+      "sha256": "ebdba37644fed692ec1dd375781c4ef6dedeedc8fd634fc0f3375cafa9fa9ba8",
+      "bytes": 1084,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_08_0.stl": {
+      "sha256": "57d8d7b8c2eed86e2f204992f092edad8563965091651f66ceef717541d17f09",
+      "bytes": 1084,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_09_0.stl": {
+      "sha256": "33cfc55fd3a6d93aa9975ad7c74e522e89a08a09288623c7e6ceaec0cc45511b",
+      "bytes": 2334,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_10_0.stl": {
+      "sha256": "8d5826a91467980f3c9e3802f7df4a20b2b291779206cec3db3d821ab8094a1e",
+      "bytes": 2684,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_11_0.stl": {
+      "sha256": "b03eeb48f1f69f5be68026c5c58136562ea703e522b8500cff84aa012a37f5d5",
+      "bytes": 8684,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_12_0.stl": {
+      "sha256": "89c6e74903d7844229e936b9532244fe2b724c31550b6272d232d778eb43aa93",
+      "bytes": 5000084,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_12_1.stl": {
+      "sha256": "57de69cee68721c136bc924af5faaac39a768227a096697eeeac46e3e49c5387",
+      "bytes": 5000084,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_12_2.stl": {
+      "sha256": "e3bd45b6be1ceff14ac3834bfef02cabee61445ed76ad07ce89068b205b20cc3",
+      "bytes": 24534,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_13_0.stl": {
+      "sha256": "6d16ff7224852198ea07598b03cea6a888cc6c390c64044870993ab9b33e908c",
+      "bytes": 1684,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_14_0.stl": {
+      "sha256": "a8ce5f573bcf42a72d884b949803d49148e0f63e61b5dbc57113f3abbe5cadf3",
+      "bytes": 362584,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_15_0.stl": {
+      "sha256": "eb27cf8f5e63fd8cf639ba461a8ea9d412dcd7ed709ae5724fba2b219a7ca24d",
+      "bytes": 29184,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_16_0.stl": {
+      "sha256": "ddbb0cec5067a7c64d9a6faf620b13f42c8908f761e827d92a36a804849b744b",
+      "bytes": 35684,
+      "source_lfs": true
+    },
+    "assets/fq/cameras/realsense_d435i/meshes/d435i_17_0.stl": {
+      "sha256": "0fd45811012a3c4db9f28248145e9f5cf6aee4e32b92412c94390b40ef119ae3",
+      "bytes": 684,
+      "source_lfs": true
+    },
+    "assets/fq/conference_table/table.usda": {
+      "sha256": "8c9e2aee59dac79adafdd9ad7f0d6fa856b44de73d749c70180bab0a7dfcab6b",
+      "bytes": 21815,
+      "source_lfs": false
+    },
+    "assets/fq/conference_table/textures/basecolor_v4.png": {
+      "sha256": "78ad39c3f35ed9ece477fe29667a6b804e80bd2e048fa6aee7b56e238b3614d4",
+      "bytes": 67344,
+      "source_lfs": true
+    },
+    "assets/fq/conference_table/textures/roughness_v4.png": {
+      "sha256": "eeca7914c952fd1cd763451f537890e4bc64ee2334d0af7dc9cd6c44d4158005",
+      "bytes": 600,
+      "source_lfs": true
+    },
+    "assets/fq/haier_bcd402/refrigerator.usda": {
+      "sha256": "5b97afbce5658341e17fb754502916df174f1069a7c7dee9d4580693cacc5ed4",
+      "bytes": 79398550,
+      "source_lfs": false
+    },
+    "assets/fq/office_chair/chair.usda": {
+      "sha256": "ed386eb8b8b73fa780e1a4fda8a0acda9bf29b7f90a7f1a44321b4cbe9802d27",
+      "bytes": 40929739,
+      "source_lfs": false
+    },
+    "assets/fq/office_chair/textures/fabric_basecolor.png": {
+      "sha256": "85d09dacded00a52fc8a86951d434d4232f37f9c84d5962f2b13c8c636b7e1de",
+      "bytes": 3633,
+      "source_lfs": true
+    },
+    "assets/fq/office_chair/textures/fabric_normal.png": {
+      "sha256": "3bf81719a4826864dc048e5e29ae9aca53d30fd9e17cc13b6196dc0516afca40",
+      "bytes": 3747,
+      "source_lfs": true
+    },
+    "assets/fq/office_chair/textures/fabric_roughness.png": {
+      "sha256": "65a3dcc2ad3b69365440cea01ff9128462396d4161f310bfb423f7619a9b7cd6",
+      "bytes": 3937,
+      "source_lfs": true
+    },
+    "assets/fq/tabletop/common/textures/coke.png": {
+      "sha256": "16c774dd9a5986ee8c485a9376b7c65af47a620373e3b3f49bc8b9811261e424",
+      "bytes": 2791758,
+      "source_lfs": true
+    },
+    "assets/fq/tabletop/common/textures/coke_cn.png": {
+      "sha256": "c098d09ba3b204bbd6038854520f78e56d858b68e47150430120b5bb60e8c768",
+      "bytes": 1320260,
+      "source_lfs": true
+    },
+    "assets/fq/tabletop/common/textures/round_table_vertex_color.png": {
+      "sha256": "8c6037ea795acd8bef978cb0bd4c5a6bac216e8169fe2df5fbe79c8142ca7182",
+      "bytes": 11415,
+      "source_lfs": true
+    },
+    "assets/fq/tabletop/common/textures/surfaces_20260921/table_basecolor.png": {
+      "sha256": "1f8eb923f2c88b14f9bbbf1122d6a07fa02ee92941edaef48c1989a4b15b76fa",
+      "bytes": 2050534,
+      "source_lfs": true
+    },
+    "assets/fq/tabletop/isaac/coke.usd": {
+      "sha256": "3cfa09e0f74890d723e7130f1391e18447bda09e323e188016fa001cec69fc4a",
+      "bytes": 6459316,
+      "source_lfs": true
+    },
+    "assets/fq/tabletop/isaac/round_table.usd": {
+      "sha256": "a372113cb8e9ae903bd083ad9d3a496f53029e433f3f65371452db5313dbbb94",
+      "bytes": 3870261,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/base_link.STL": {
+      "sha256": "db66490975c90175b69a62c12586bc47874a0e9d612cedc6eddf2bf84ed14b27",
+      "bytes": 6332884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/coupler_link_L.STL": {
+      "sha256": "451d224a506012cd185715ea8e561d8922903107b5020224a33f8e69af7f2a23",
+      "bytes": 327284,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/coupler_link_R.STL": {
+      "sha256": "89b852675369231fadf94efed3506063e4239ed8f610ef1aa1a4e6a8eb77623a",
+      "bytes": 327284,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/driver_link_L.STL": {
+      "sha256": "580beebb27aa21aeba3cb323c4b8d6afe516e291b09e346dcc6d38feec71fe34",
+      "bytes": 149684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/driver_link_R.STL": {
+      "sha256": "7a4955dad66e9a1700a8758192f91b3443e4b72b879786dc9a30fe267e72a71c",
+      "bytes": 149484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/follower_link_L.STL": {
+      "sha256": "4f137ecbc0197454f86aac244a03ce2a14ff4c369ff5d39a9801b3c687edf82d",
+      "bytes": 229384,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/follower_link_R.STL": {
+      "sha256": "4c9293ee9fcf31b0a3103a5aecbdc547dc880ef6943ba84a517d5777606c803e",
+      "bytes": 229284,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/spring_link_L.STL": {
+      "sha256": "97c71759b15183b6c32e9bf8ceeb6ef14e0897e67366f9de1e217314b16233bb",
+      "bytes": 432684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/rhino_v6_gripper/source/meshes/spring_link_R.STL": {
+      "sha256": "3fe5a4a7f862ab1d138a3df69d8a8bb52ed93cb2e34a3d74acd8350b09ec0951",
+      "bytes": 432684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/model.urdf": {
+      "sha256": "76726307d0590a713faa67738414985fe028b366676c4997c9c3dea528c4017b",
+      "bytes": 98244,
+      "source_lfs": false
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/cad_00.stl": {
+      "sha256": "2b650fd991aedfa51a1f02bf6f4bf9770207f7924fe8378782b9e0cd44d82837",
+      "bytes": 68884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/cad_10.stl": {
+      "sha256": "1baa97a59f34c92aba5f794d1a4b9172ef7c523466bc001f1ba2278d05689a5c",
+      "bytes": 4323684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/cad_11.stl": {
+      "sha256": "e8598e5f1e6bb1add433bedcade6e4bd52f137e6fb07949ec832fa98c507931e",
+      "bytes": 2600884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/cad_12.stl": {
+      "sha256": "b6882e752026248337d5ede8c5d54d647b87fabd392cc86cdb074995681d6227",
+      "bytes": 684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C1_Link.STL": {
+      "sha256": "052e10cd98861a71715555bf814c5ede75c69e8b05ee98c882bf750eea475e11",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C2_Link.STL": {
+      "sha256": "1c023ddca5078ee68870275a4a899b3752adb361f234f09d0ca68c0b0dd92ac1",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C3_Link.STL": {
+      "sha256": "ce48f0cf8debce8f9d644fde89e0ff10e3547c6a7ffb9ac33a7579672e80083f",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C4_Link.STL": {
+      "sha256": "6d8d51b867a6d853c4fac66dafeb7fa5ad4b5031b194e2c8de4fb53c03d54ca9",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C5_Link.STL": {
+      "sha256": "d4f52d00c87517fe06c7ec49d18aba5b2dbf0286e40b47e33c90e94f3780b0bf",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C6_Link.STL": {
+      "sha256": "c2393f3db18f262e7da5894eb57ba64913909875788bf5c7999cecf788f61921",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C7_Link.STL": {
+      "sha256": "e810a876a92f6967dec2869372acd38b79e3af28292ebb1147f95a0ae701555e",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_C8_Link.STL": {
+      "sha256": "3f6d07c99ff997421c3df5a08ba800ccc0e4a51b84110b0068e7e5f331e42788",
+      "bytes": 233684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_IMU_Link.STL": {
+      "sha256": "6001f2f9d53286d79be73b296955109385c86e15047726f9ff819efbd0ff562b",
+      "bytes": 927334,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_XJ_Link.STL": {
+      "sha256": "458eaae82acd2fc5e235cf54cf8c9bbbe9ba346d7ccb3f1850ba1578634fa308",
+      "bytes": 348384,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_YD_link.STL": {
+      "sha256": "b5ed163616e45df6d986252a266b5d3044f2a32bd9a2ec5d739e663b502142e6",
+      "bytes": 3342134,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_YHL_Link.STL": {
+      "sha256": "3097cf99d2d418323bae7ccb98d78077d53125ce2689eae625beb1cd291401f3",
+      "bytes": 723984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_YH_Link.STL": {
+      "sha256": "d595cd013bcdd4a2d5a82ab7634ce22368f1185363c05c39b1a0825abbfa600e",
+      "bytes": 666484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_YLD_Link.STL": {
+      "sha256": "49572969b193dfb488a0d62cc82eb6f4bf63a04b0123b71fe346fd4df9b875d2",
+      "bytes": 1077984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_YQL_Link.STL": {
+      "sha256": "f2abde35be39a1502783f24155e04ac9e2048dbdcbb89c6a665c94e5f8ed2049",
+      "bytes": 723984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_YQ_Link.STL": {
+      "sha256": "d595cd013bcdd4a2d5a82ab7634ce22368f1185363c05c39b1a0825abbfa600e",
+      "bytes": 666484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_ZHL_Link.STL": {
+      "sha256": "31680aa1241598fa81e5fa15f0414bed48254d6b42c2f374c1b52ac6cb48b64b",
+      "bytes": 723984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_ZH_Link.STL": {
+      "sha256": "5183fe8fb167710d35468702890d61d0cf565ede45a96a0fcb68e49b3f2f3155",
+      "bytes": 666484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_ZLD_Link.STL": {
+      "sha256": "0e382fefeec2b59a31966cf9488e667388253f1387961dfbe86885f487f88310",
+      "bytes": 1077984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_ZQL_Link.STL": {
+      "sha256": "a913e79a4bfee9f5cf8424a6e12a06c51f4bd00e0c664801866147bbdf1feab5",
+      "bytes": 723984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/s100_ZQ_Link.STL": {
+      "sha256": "5183fe8fb167710d35468702890d61d0cf565ede45a96a0fcb68e49b3f2f3155",
+      "bytes": 666484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Base_L.STL": {
+      "sha256": "f22c309ed8cacd2fc776e2f72a2fc5618d9da84315267377edd3205e91ebbcb5",
+      "bytes": 204584,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Base_R.STL": {
+      "sha256": "f22c309ed8cacd2fc776e2f72a2fc5618d9da84315267377edd3205e91ebbcb5",
+      "bytes": 204584,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link1_L.STL": {
+      "sha256": "d00097eec49600a4111ee5a124d6636f50ea09a7a1dc8486d98f4370dde7a932",
+      "bytes": 563584,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link1_R.STL": {
+      "sha256": "fdb1075fe0b41e5c2cb7c2fe13c9d2e62ff4dd6eb540ea841b8603db28369dd0",
+      "bytes": 563584,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link2_L.STL": {
+      "sha256": "4776a6a2086ddc61b1643aff93386e545baccef2751db29d863fe027a76f325e",
+      "bytes": 1278784,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link2_R.STL": {
+      "sha256": "53eb9fc69c939d2ebd4f32c1df341c1c42bc3d9d0911db0c9fcee70aa2701b34",
+      "bytes": 1278784,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link3_L.STL": {
+      "sha256": "d58f1039bd3eb2ccc1a1959b89d2de7ae714344ad8cb8b78ef97b92dcd317d26",
+      "bytes": 635484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link3_R.STL": {
+      "sha256": "122456d8fc3e81694f352fc1f29d0bc19066f7f3d7572857a1be1e7c030dec9c",
+      "bytes": 635484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link4_L.STL": {
+      "sha256": "77f18566339f38acac1785fae517b05ff1e5247b95404ce26536d215bbed9cd7",
+      "bytes": 1263484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link4_R.STL": {
+      "sha256": "77f18566339f38acac1785fae517b05ff1e5247b95404ce26536d215bbed9cd7",
+      "bytes": 1263484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link5_L.STL": {
+      "sha256": "573f15ee62b0a9b2d62aceeb756800fd86969a685535e91416b73d51f1c57613",
+      "bytes": 1176084,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link5_R.STL": {
+      "sha256": "2de51a340695c89b2fd58b1171dfacc4d85aa4e6cd50879e021a2d0bde8599a8",
+      "bytes": 1196684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link6_L.STL": {
+      "sha256": "b6b7570d8ebf1d2acb01baf8941b892f5a5f72aaa05503ab8340da8a2a7b2c13",
+      "bytes": 310884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link6_R.STL": {
+      "sha256": "49722d14b9ac34a84a41c95f49bd0b2a8859d4a05f66b247822bf36b0a703cd5",
+      "bytes": 310884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link7_L.STL": {
+      "sha256": "126cc7d41c37049ce34d2636bfe2d460c21e3429ed080877d1c5e983109ef798",
+      "bytes": 2557184,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_Link7_R.STL": {
+      "sha256": "6eb75b059ff383e90a153be840bcce84b23d8f8afd074b1bc9dfec1b18c2351f",
+      "bytes": 2577384,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_adapter_flange.stl": {
+      "sha256": "ee4d43d017372cede83e08f092c11f0edbd595f67792be026974f8df8c001666",
+      "bytes": 663084,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_01.stl": {
+      "sha256": "74e9940a7305ab476dd57a62a7e146f79cd011bc4ec5d892dc0afcfeb1709030",
+      "bytes": 281084,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_02.stl": {
+      "sha256": "6d38ccc4a0146776beab49b84233206b13f073072ef72ffa66c793626989bb3d",
+      "bytes": 1754484,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_03.stl": {
+      "sha256": "091b850ff0607f6bae0347cc6bb5252bd902deec922b1880dd6a7372d4aa6bc0",
+      "bytes": 1461084,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_04.stl": {
+      "sha256": "53c4faeaea688a1b91316af54eda668fb8b1ec1cb5eeeb6f924ee211014e5a95",
+      "bytes": 1120884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_05.stl": {
+      "sha256": "ba4aad72f12d6b5a3ae19834b744130d8a31a4a11321df3d0898b45a4ec59a3f",
+      "bytes": 123984,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_06.stl": {
+      "sha256": "c621e906e89a6ca272cc7b87c406806fc3a4d9b83ca0501ece0c6fcbe164b671",
+      "bytes": 72284,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_07.stl": {
+      "sha256": "462cf304a4cb5a0c799d4c03de591ecb6d4bf1e40040a85a6f0459df20ac0126",
+      "bytes": 92884,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_08.stl": {
+      "sha256": "6a2ec3a844e08455e4c6d8dee260bfeaf560fafafc761f5f107f1bf77d7e8ca7",
+      "bytes": 74684,
+      "source_lfs": true
+    },
+    "assets/user_supplied/tianji_robot/source/meshes/upper_head_part_09.stl": {
+      "sha256": "7522b6222dcbb5d213d629599b8f5fc5ce24f679efcc3fccd64d473ed039b786",
+      "bytes": 1924884,
+      "source_lfs": true
+    },
+    "scenes/fq/office_baseline/architecture.usda": {
+      "sha256": "98ff5a99176cb4ad1363dae109b7be4a66a86b736a8370628cf220eb66957e5d",
+      "bytes": 247300,
+      "source_lfs": false
+    },
+    "scenes/fq/office_baseline/scene.usda": {
+      "sha256": "c61502f9a36af195eea86c2439feb7954b9a7916e80f640e2e310bdce6f1ebc5",
+      "bytes": 1377128,
+      "source_lfs": false
+    },
+    "scenes/fq/office_baseline/textures/carpet_photo_v1.png": {
+      "sha256": "fc66b6e801eb8a8dd24e39866079c049281659b342faf018622e5c3f6e58ad14",
+      "bytes": 4741123,
+      "source_lfs": true
+    },
+    "scenes/fq/office_baseline/textures/stone_photo_v1.png": {
+      "sha256": "c3762606a12d6baa4e1206e4a2418211567d12f21ce2c6616d1b51821063e38a",
+      "bytes": 3316842,
+      "source_lfs": true
+    },
+    "scenes/fq/office_baseline/textures/wall.png": {
+      "sha256": "fa1c45c408dba6963614750744a822dfdef186f024f069f88c543375ee2a1679",
+      "bytes": 133592,
+      "source_lfs": true
+    },
+    "scenes/fq/office_baseline/textures/wood_photo_v1.png": {
+      "sha256": "99ce0257a235280f7bab748d85406ede94c67a9a6dac088bcc933a453781a8cf",
+      "bytes": 2069547,
+      "source_lfs": true
+    }
+  },
+  "download": "Official GitHub media, IPv4, proxies disabled, LFS hashes verified"
+}

@@ -1,0 +1,1250 @@
+{
+  "schema_version": 1,
+  "source_dataset": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples",
+  "coordinate_convention": "T_A_B maps B to A; camera pinhole optical coordinates x right, y down, z forward",
+  "default_episode": 0,
+  "vector_names": [
+    "Left_Shoulder_Pitch_Joint",
+    "Left_Shoulder_Roll_Joint",
+    "Left_Shoulder_Yaw_Joint",
+    "Left_Elbow_Pitch_Joint",
+    "Left_Wrist_Yaw_Joint",
+    "Left_Wrist_Pitch_Joint",
+    "Left_Wrist_Roll_Joint",
+    "Left_Gripper",
+    "Right_Shoulder_Pitch_Joint",
+    "Right_Shoulder_Roll_Joint",
+    "Right_Shoulder_Yaw_Joint",
+    "Right_Elbow_Pitch_Joint",
+    "Right_Wrist_Yaw_Joint",
+    "Right_Wrist_Pitch_Joint",
+    "Right_Wrist_Roll_Joint",
+    "Right_Gripper"
+  ],
+  "model_action_names": [
+    "Joint1_L",
+    "Joint2_L",
+    "Joint3_L",
+    "Joint4_L",
+    "Joint5_L",
+    "Joint6_L",
+    "Joint7_L",
+    "left_gripper",
+    "Joint1_R",
+    "Joint2_R",
+    "Joint3_R",
+    "Joint4_R",
+    "Joint5_R",
+    "Joint6_R",
+    "Joint7_R",
+    "right_gripper"
+  ],
+  "units": {
+    "arm": "radian",
+    "gripper": "normalized_opening_0_closed_1_open",
+    "state": "measured_absolute",
+    "action": "commanded_absolute"
+  },
+  "joint_mapping": [
+    {
+      "index": 0,
+      "side": "left",
+      "dataset_name": "Left_Shoulder_Pitch_Joint",
+      "model_joint": "Joint1_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 1,
+      "side": "left",
+      "dataset_name": "Left_Shoulder_Roll_Joint",
+      "model_joint": "Joint2_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 2,
+      "side": "left",
+      "dataset_name": "Left_Shoulder_Yaw_Joint",
+      "model_joint": "Joint3_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 3,
+      "side": "left",
+      "dataset_name": "Left_Elbow_Pitch_Joint",
+      "model_joint": "Joint4_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 4,
+      "side": "left",
+      "dataset_name": "Left_Wrist_Yaw_Joint",
+      "model_joint": "Joint5_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 5,
+      "side": "left",
+      "dataset_name": "Left_Wrist_Pitch_Joint",
+      "model_joint": "Joint6_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 6,
+      "side": "left",
+      "dataset_name": "Left_Wrist_Roll_Joint",
+      "model_joint": "Joint7_L",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 7,
+      "side": "right",
+      "dataset_name": "Right_Shoulder_Pitch_Joint",
+      "model_joint": "Joint1_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 8,
+      "side": "right",
+      "dataset_name": "Right_Shoulder_Roll_Joint",
+      "model_joint": "Joint2_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 9,
+      "side": "right",
+      "dataset_name": "Right_Shoulder_Yaw_Joint",
+      "model_joint": "Joint3_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 10,
+      "side": "right",
+      "dataset_name": "Right_Elbow_Pitch_Joint",
+      "model_joint": "Joint4_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 11,
+      "side": "right",
+      "dataset_name": "Right_Wrist_Yaw_Joint",
+      "model_joint": "Joint5_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 12,
+      "side": "right",
+      "dataset_name": "Right_Wrist_Pitch_Joint",
+      "model_joint": "Joint6_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    },
+    {
+      "index": 13,
+      "side": "right",
+      "dataset_name": "Right_Wrist_Roll_Joint",
+      "model_joint": "Joint7_R",
+      "sign": 1,
+      "zero_offset_rad": 0.0
+    }
+  ],
+  "initial_profiles": [
+    {
+      "episode": 0,
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "state": [
+        -0.03583858907222748,
+        -0.007480481173843145,
+        0.3488790988922119,
+        -1.5505348443984985,
+        1.3133811950683594,
+        -0.04445004463195801,
+        0.2503797113895416,
+        0.9976509213447571,
+        0.039015091955661774,
+        0.009911724366247654,
+        -0.34507253766059875,
+        -1.5654852390289307,
+        -1.3232824802398682,
+        -0.05064421892166138,
+        -0.36168283224105835,
+        0.9972091913223267
+      ],
+      "action": [
+        -0.03604613617062569,
+        -0.015192797407507896,
+        0.3494507372379303,
+        -1.5454695224761963,
+        1.3350297212600708,
+        -0.05659259483218193,
+        0.22869166731834412,
+        1.0,
+        0.037607718259096146,
+        0.006438521668314934,
+        -0.34660616517066956,
+        -1.5614835023880005,
+        -1.3204683065414429,
+        -0.04913174733519554,
+        -0.36389896273612976,
+        1.0
+      ],
+      "eepose": [
+        0.40615618228912354,
+        0.12855057418346405,
+        0.4609279930591583,
+        0.3827863335609436,
+        0.6872929334640503,
+        0.4427364468574524,
+        0.430217981338501,
+        0.39970138669013977,
+        -0.12320483475923538,
+        0.4518706500530243,
+        -0.4074450731277466,
+        0.7102083563804626,
+        -0.4046844244003296,
+        0.40721386671066284
+      ],
+      "row_count": 3041,
+      "source": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000000/data/chunk-000/episode_000000.parquet"
+    },
+    {
+      "episode": 1,
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "state": [
+        -0.010775662958621979,
+        -0.1109907254576683,
+        0.37366625666618347,
+        -1.4865562915802002,
+        1.3617616891860962,
+        -0.02257758006453514,
+        0.3808971643447876,
+        0.9976509213447571,
+        0.03187669441103935,
+        -0.12187284976243973,
+        -0.35099443793296814,
+        -1.5098843574523926,
+        -1.2294412851333618,
+        -0.16273275017738342,
+        -0.39606407284736633,
+        0.9972493648529053
+      ],
+      "action": [
+        -0.017462575808167458,
+        -0.11292202025651932,
+        0.37386956810951233,
+        -1.4857701063156128,
+        1.3600877523422241,
+        -0.05149470642209053,
+        0.36849045753479004,
+        1.0,
+        0.03306949511170387,
+        -0.12235710769891739,
+        -0.3499417304992676,
+        -1.512681245803833,
+        -1.2283860445022583,
+        -0.16431812942028046,
+        -0.3935617506504059,
+        1.0
+      ],
+      "eepose": [
+        0.42596063017845154,
+        0.1437837779521942,
+        0.43302229046821594,
+        0.42540305852890015,
+        0.7161536812782288,
+        0.41653504967689514,
+        0.36421793699264526,
+        0.4298751950263977,
+        -0.13148948550224304,
+        0.4146868884563446,
+        -0.370103657245636,
+        0.7703572511672974,
+        -0.37228018045425415,
+        0.36191222071647644
+      ],
+      "row_count": 3333,
+      "source": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000001/data/chunk-000/episode_000001.parquet"
+    },
+    {
+      "episode": 2,
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "state": [
+        -0.01828755997121334,
+        -0.012777555733919144,
+        0.3668455183506012,
+        -1.5375076532363892,
+        1.3455040454864502,
+        -0.015484561212360859,
+        0.35046038031578064,
+        0.9976509213447571,
+        0.029881782829761505,
+        -0.037573449313640594,
+        -0.35293349623680115,
+        -1.5651100873947144,
+        -1.2582166194915771,
+        -0.028551841154694557,
+        -0.28176072239875793,
+        0.9969682693481445
+      ],
+      "action": [
+        -0.018371302634477615,
+        -0.012821488082408905,
+        0.3668007552623749,
+        -1.5380585193634033,
+        1.3461034297943115,
+        -0.016011986881494522,
+        0.34978970885276794,
+        1.0,
+        0.029881013557314873,
+        -0.037555936723947525,
+        -0.35292935371398926,
+        -1.5651626586914062,
+        -1.2581682205200195,
+        -0.028540126979351044,
+        -0.28181102871894836,
+        1.0
+      ],
+      "eepose": [
+        0.40177077054977417,
+        0.1382981538772583,
+        0.4557496905326843,
+        0.4080904722213745,
+        0.7017742395401001,
+        0.42325204610824585,
+        0.4022844433784485,
+        0.4134356677532196,
+        -0.12870804965496063,
+        0.44067734479904175,
+        -0.38422733545303345,
+        0.7094940543174744,
+        -0.4073716998100281,
+        0.4278269112110138
+      ],
+      "row_count": 3268,
+      "source": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000002/data/chunk-000/episode_000002.parquet"
+    },
+    {
+      "episode": 3,
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "state": [
+        -0.012615240179002285,
+        -0.032845351845026016,
+        0.37438884377479553,
+        -1.5524826049804688,
+        1.4285153150558472,
+        0.02560747042298317,
+        0.4382120370864868,
+        0.9976509213447571,
+        0.01898220181465149,
+        -0.11957424879074097,
+        -0.35367876291275024,
+        -1.5211853981018066,
+        -1.1624696254730225,
+        -0.0730874091386795,
+        -0.35876989364624023,
+        0.9968879818916321
+      ],
+      "action": [
+        -0.0127799604088068,
+        -0.033555373549461365,
+        0.37446829676628113,
+        -1.552324652671814,
+        1.4300580024719238,
+        0.025895239785313606,
+        0.43522563576698303,
+        1.0,
+        0.01901388354599476,
+        -0.11960114538669586,
+        -0.3536442518234253,
+        -1.5212538242340088,
+        -1.1624183654785156,
+        -0.07309462130069733,
+        -0.3587246239185333,
+        1.0
+      ],
+      "eepose": [
+        0.40278497338294983,
+        0.14056318998336792,
+        0.4342099130153656,
+        0.4600276052951813,
+        0.7090581059455872,
+        0.4017474055290222,
+        0.35243475437164307,
+        0.43196916580200195,
+        -0.13079559803009033,
+        0.4168022572994232,
+        -0.3679285943508148,
+        0.754732072353363,
+        -0.3582966923713684,
+        0.4082052707672119
+      ],
+      "row_count": 1529,
+      "source": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000003/data/chunk-000/episode_000003.parquet"
+    },
+    {
+      "episode": 4,
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "state": [
+        -0.01972745731472969,
+        -0.0694798156619072,
+        0.3642030954360962,
+        -1.489258050918579,
+        1.3638578653335571,
+        0.044806092977523804,
+        0.31957677006721497,
+        0.9976509213447571,
+        0.01572890765964985,
+        -0.1092977523803711,
+        -0.36264100670814514,
+        -1.5069172382354736,
+        -1.243821144104004,
+        -0.044313911348581314,
+        -0.313136488199234,
+        0.9968879818916321
+      ],
+      "action": [
+        -0.020607614889740944,
+        -0.07005216926336288,
+        0.36380288004875183,
+        -1.489200234413147,
+        1.3625067472457886,
+        0.03447957709431648,
+        0.3147042393684387,
+        1.0,
+        0.015932893380522728,
+        -0.10845562070608139,
+        -0.36244189739227295,
+        -1.5078965425491333,
+        -1.2439333200454712,
+        -0.04395121708512306,
+        -0.312984436750412,
+        1.0
+      ],
+      "eepose": [
+        0.42076852917671204,
+        0.13247814774513245,
+        0.4557229280471802,
+        0.43315139412879944,
+        0.6746246814727783,
+        0.4332544207572937,
+        0.411766916513443,
+        0.4294787347316742,
+        -0.13778167963027954,
+        0.43125757575035095,
+        -0.3819441497325897,
+        0.7251730561256409,
+        -0.40331435203552246,
+        0.406915545463562
+      ],
+      "row_count": 1707,
+      "source": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000004/data/chunk-000/episode_000004.parquet"
+    },
+    {
+      "episode": 5,
+      "frame_index": 0,
+      "timestamp_s": 0.0,
+      "state": [
+        -0.025185100734233856,
+        -0.021694442257285118,
+        0.36143675446510315,
+        -1.4631025791168213,
+        1.3914794921875,
+        0.009957103058695793,
+        0.48520326614379883,
+        0.9976509213447571,
+        0.010639526881277561,
+        -0.137359157204628,
+        -0.3621034622192383,
+        -1.4979270696640015,
+        -1.2469347715377808,
+        -0.02130872569978237,
+        -0.31219053268432617,
+        0.9968879818916321
+      ],
+      "action": [
+        -0.024966279044747353,
+        -0.022073524072766304,
+        0.36156460642814636,
+        -1.4615747928619385,
+        1.3893619775772095,
+        0.010510649532079697,
+        0.4878866374492645,
+        1.0,
+        0.009930375032126904,
+        -0.13716375827789307,
+        -0.3623825013637543,
+        -1.4978301525115967,
+        -1.2458263635635376,
+        -0.020181212574243546,
+        -0.3128156065940857,
+        1.0
+      ],
+      "eepose": [
+        0.4025273323059082,
+        0.12901033461093903,
+        0.4703938066959381,
+        0.450531542301178,
+        0.6975381374359131,
+        0.40486469864845276,
+        0.3828139007091522,
+        0.43701136112213135,
+        -0.1378949135541916,
+        0.4234035611152649,
+        -0.39268073439598083,
+        0.7228835225105286,
+        -0.39993590116500854,
+        0.4040946662425995
+      ],
+      "row_count": 1609,
+      "source": "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000005/data/chunk-000/episode_000005.parquet"
+    }
+  ],
+  "dataset_common_base_from_Base_L": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.037
+    ],
+    [
+      0.0,
+      -1.0,
+      0.0,
+      1.121
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dataset_common_base_from_Base_R": [
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      -1.0,
+      -0.037
+    ],
+    [
+      0.0,
+      1.0,
+      0.0,
+      1.121
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "cameras": {
+    "head": {
+      "dataset_name": "cam_high",
+      "serial": "936322071480",
+      "image_size": [
+        640,
+        480
+      ],
+      "intrinsic": [
+        [
+          613.1007080078125,
+          0.0,
+          314.2767028808594
+        ],
+        [
+          0.0,
+          612.5927734375,
+          239.26837158203125
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "distortion_model": "inverse_brown_conrady",
+      "distortion_coefficients": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent_frame": "cam_high_color_optical_frame",
+      "T_parent_camera": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "calibration_status": "sample_intrinsics_urdf_mount_provisional"
+    },
+    "left_wrist": {
+      "dataset_name": "cam_left_wrist",
+      "serial": "934222072017",
+      "image_size": [
+        640,
+        480
+      ],
+      "intrinsic": [
+        [
+          613.5473022460938,
+          0.0,
+          312.468505859375
+        ],
+        [
+          0.0,
+          614.1261596679688,
+          231.9669647216797
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "distortion_model": "inverse_brown_conrady",
+      "distortion_coefficients": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent_frame": "cam_left_wrist_color_optical_frame",
+      "T_parent_camera": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "calibration_status": "sample_intrinsics_urdf_mount_provisional"
+    },
+    "right_wrist": {
+      "dataset_name": "cam_right_wrist",
+      "serial": "927522071707",
+      "image_size": [
+        640,
+        480
+      ],
+      "intrinsic": [
+        [
+          613.6702880859375,
+          0.0,
+          322.5777893066406
+        ],
+        [
+          0.0,
+          613.1853637695312,
+          238.59214782714844
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "distortion_model": "inverse_brown_conrady",
+      "distortion_coefficients": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent_frame": "cam_right_wrist_color_optical_frame",
+      "T_parent_camera": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "calibration_status": "sample_intrinsics_urdf_mount_provisional"
+    }
+  },
+  "raw_head_camera_to_unspecified_base": [
+    [
+      0.07319799810647964,
+      -0.6692883372306824,
+      0.7393883466720581,
+      -0.12159862369298935
+    ],
+    [
+      -0.060588277876377106,
+      -0.7429920434951782,
+      -0.6665522456169128,
+      0.4095597267150879
+    ],
+    [
+      0.9954752922058105,
+      0.003992023877799511,
+      -0.0949365571141243,
+      -0.09702953696250916
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "audit": {
+    "source_sha256": {
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/cameras.json": "55ea9a33f2828ae74609129708e01b12561e9fb63766d6a0097970359f38c512",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/T_base_cam_high.npy": "43ce48958c3c85e748e3a41ae8a21d1531511980e132467d0bd4fee1c35507bd",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/T_left_tool_cam_left.npy": "b0b2eedbe4fce0a19a73d3179dd164698c50350261810118874af52d5bc6eda2",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/T_right_tool_cam_right.npy": "99183001a9ac801f5912b338c26a68dcf4a0d3690d52f388168f53617d01d2e1",
+      "/data1/liuming/Tianji-worldmodel/robot_specs/tianji_m6.yaml": "8fe4e67f3c21c51ef5e13eff6ea0562bbaf7155053c8cc01af719ab696e885f3",
+      "/data1/liuming/Tianji-worldmodel/robot_specs/tianji_m6_v4/joint_mapping.json": "c6e7445437079d696d4f56473f57b312310579df3fcaa75a88e700765cb75443",
+      "/data1/liuming/Tianji-worldmodel/robot_specs/tianji_m6_v4/README.md": "d30d675fab8a180ddb82b8a12953a5bd383102984245d7f7a01cf9a46d60faa1",
+      "/data1/liuming/Tianji-worldmodel/docs/TIANJI_ROBOT_CONTRACT.md": "c0e8ef799572443dba6becefccaabe4b07a1e50ec6f3515086bec5859316facc",
+      "/data1/liuming/Tianji-worldmodel/docs/CAMERA_CALIBRATION.md": "c80dbb57ad35ad6d0f9c4cfe79c1104e0f99bffddca21cf8b1ebe2a6639ad4fb",
+      "/data1/liuming/Tianji-worldmodel/calibration/tianji_head_eef_annotations.json": "75958443ea31cc8820bf344178b828455d66ccca103d421a24f45a576913e11d",
+      "/data1/liuming/Tianji-worldmodel/calibration/results/T_common_base_cam_high_eef_pnp.json": "346159589c1bfb4db6290218edc51a6a2c0e14942dbb54e28bab1cfb01b78877",
+      "/data1/liuming/Tianji-worldmodel/calibration/results/T_common_base_cam_high_eef_pnp.npy": "dc9f711dea1fc8d432f1880347e191b84835005a4ba0620d8f8cf934877cd9b2",
+      "/data1/liuming/RSI/assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/model.urdf": "76726307d0590a713faa67738414985fe028b366676c4997c9c3dea528c4017b",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000000/data/chunk-000/episode_000000.parquet": "15eb49444e5ea17809119728126d8649b8206cb78713982863fe4082dd1563a8",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000001/data/chunk-000/episode_000001.parquet": "d27b544569c5368c7254db2d5967ec4aaa481bf269dd73462cfded99472f46dc",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000002/data/chunk-000/episode_000002.parquet": "9b9aed35f7499601d047fd653e1b5e8f522d84c06e05c4ec3c1f86f261fc3010",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000003/data/chunk-000/episode_000003.parquet": "44068d242dda1ca8e2d7dfe081629e19d95573b794157fa629ef0b7cec2b29c6",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000004/data/chunk-000/episode_000004.parquet": "7607dac55147c3a05b86ece1a2035e3cf1929c00d1e642825fd3b27a3c2e69b5",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000005/data/chunk-000/episode_000005.parquet": "36076120b5c655c71dc27afa7ed40274e388243fad8b4c2ee746073711fdb00b",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000000/meta/info.json": "f4fc8c60c941fca9aad6ae7761c6a2b181457915a4e16f067a01e7b844c723f1",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000001/meta/info.json": "f4fc8c60c941fca9aad6ae7761c6a2b181457915a4e16f067a01e7b844c723f1",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000002/meta/info.json": "f4fc8c60c941fca9aad6ae7761c6a2b181457915a4e16f067a01e7b844c723f1",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000003/meta/info.json": "f4fc8c60c941fca9aad6ae7761c6a2b181457915a4e16f067a01e7b844c723f1",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000004/meta/info.json": "f4fc8c60c941fca9aad6ae7761c6a2b181457915a4e16f067a01e7b844c723f1",
+      "/data1/liuming/Tianji-worldmodel/data/tianji_m6_samples/ts_tianji_m6_episode_000005/meta/info.json": "f4fc8c60c941fca9aad6ae7761c6a2b181457915a4e16f067a01e7b844c723f1"
+    },
+    "kinematic_crosscheck": [
+      {
+        "episode": 0,
+        "arm": "left",
+        "translation_error_m": 1.7520924605486509e-06,
+        "rotation_error_rad": 9.694059792432182e-06
+      },
+      {
+        "episode": 0,
+        "arm": "right",
+        "translation_error_m": 3.2988672628608624e-06,
+        "rotation_error_rad": 2.2563066207543328e-05
+      },
+      {
+        "episode": 1,
+        "arm": "left",
+        "translation_error_m": 1.8927203014028505e-06,
+        "rotation_error_rad": 9.938657243555822e-06
+      },
+      {
+        "episode": 1,
+        "arm": "right",
+        "translation_error_m": 3.392697397598162e-06,
+        "rotation_error_rad": 2.270202607552473e-05
+      },
+      {
+        "episode": 2,
+        "arm": "left",
+        "translation_error_m": 1.7935872846654065e-06,
+        "rotation_error_rad": 9.7527536417551e-06
+      },
+      {
+        "episode": 2,
+        "arm": "right",
+        "translation_error_m": 3.329922764677537e-06,
+        "rotation_error_rad": 2.265831540416597e-05
+      },
+      {
+        "episode": 3,
+        "arm": "left",
+        "translation_error_m": 1.8958785268399523e-06,
+        "rotation_error_rad": 9.494932991191638e-06
+      },
+      {
+        "episode": 3,
+        "arm": "right",
+        "translation_error_m": 3.3734659099253143e-06,
+        "rotation_error_rad": 2.2629478945872237e-05
+      },
+      {
+        "episode": 4,
+        "arm": "left",
+        "translation_error_m": 1.7917283798131807e-06,
+        "rotation_error_rad": 1.0098322589638642e-05
+      },
+      {
+        "episode": 4,
+        "arm": "right",
+        "translation_error_m": 3.370622211355028e-06,
+        "rotation_error_rad": 2.286306691572092e-05
+      },
+      {
+        "episode": 5,
+        "arm": "left",
+        "translation_error_m": 1.7713143264899037e-06,
+        "rotation_error_rad": 1.0012125449252999e-05
+      },
+      {
+        "episode": 5,
+        "arm": "right",
+        "translation_error_m": 3.3777994960404555e-06,
+        "rotation_error_rad": 2.2924037304031117e-05
+      }
+    ],
+    "head_reprojection_comparisons": [
+      {
+        "hypothesis": "supplied_as_dataset_common_base",
+        "positive_depth_count": 11,
+        "point_count": 11,
+        "mean_error_px": 1308.8330704703649,
+        "rms_error_px": 1392.3219234655417,
+        "max_error_px": 2038.6383957311189
+      },
+      {
+        "hypothesis": "supplied_as_Base_L",
+        "positive_depth_count": 11,
+        "point_count": 11,
+        "mean_error_px": 478.3324863216942,
+        "rms_error_px": 500.077797703322,
+        "max_error_px": 737.8581758783422
+      },
+      {
+        "hypothesis": "supplied_as_Base_R",
+        "positive_depth_count": 11,
+        "point_count": 11,
+        "mean_error_px": 87.44482925038231,
+        "rms_error_px": 89.61196610710454,
+        "max_error_px": 135.6956455148009
+      },
+      {
+        "hypothesis": "selected_provisional_eef_pnp",
+        "positive_depth_count": 11,
+        "point_count": 11,
+        "mean_error_px": 17.53133518858768,
+        "rms_error_px": 19.933066296325514,
+        "max_error_px": 36.79044488745313
+      }
+    ],
+    "head_annotations": [
+      {
+        "frame": 300,
+        "arm": "left",
+        "pixel": [
+          75.0,
+          245.0
+        ]
+      },
+      {
+        "frame": 360,
+        "arm": "left",
+        "pixel": [
+          145.0,
+          250.0
+        ]
+      },
+      {
+        "frame": 420,
+        "arm": "left",
+        "pixel": [
+          178.0,
+          282.0
+        ]
+      },
+      {
+        "frame": 480,
+        "arm": "left",
+        "pixel": [
+          208.0,
+          302.0
+        ]
+      },
+      {
+        "frame": 540,
+        "arm": "left",
+        "pixel": [
+          198.0,
+          320.0
+        ]
+      },
+      {
+        "frame": 600,
+        "arm": "left",
+        "pixel": [
+          158.0,
+          325.0
+        ]
+      },
+      {
+        "frame": 900,
+        "arm": "right",
+        "pixel": [
+          557.0,
+          275.0
+        ]
+      },
+      {
+        "frame": 1020,
+        "arm": "right",
+        "pixel": [
+          478.0,
+          278.0
+        ]
+      },
+      {
+        "frame": 1140,
+        "arm": "right",
+        "pixel": [
+          447.0,
+          288.0
+        ]
+      },
+      {
+        "frame": 1260,
+        "arm": "right",
+        "pixel": [
+          399.0,
+          292.0
+        ]
+      },
+      {
+        "frame": 1380,
+        "arm": "right",
+        "pixel": [
+          478.0,
+          287.0
+        ]
+      }
+    ],
+    "head_calibration_report": {
+      "schema_version": 1,
+      "matrix_semantics": "T_common_base_cam_high (camera-to-world)",
+      "source_annotations": "/data1/liuming/Tianji-worldmodel/calibration/tianji_head_eef_annotations.json",
+      "source_episode": 0,
+      "point_count": 11,
+      "reprojection_error_mean_px": 17.531341527528845,
+      "reprojection_error_rms_px": 19.933071930506284,
+      "reprojection_error_max_px": 36.79045973364954,
+      "provisional": true,
+      "warning": "Data-derived EEF calibration; replace with an AprilTag calibration for metric use.",
+      "matrix": [
+        [
+          -0.24174396363644945,
+          -0.2658193080078123,
+          0.9332202052761112,
+          -0.2076951261304653
+        ],
+        [
+          -0.9610345547328193,
+          -0.06728457863019788,
+          -0.26811447198547234,
+          0.2567571339533018
+        ],
+        [
+          0.1340613316912483,
+          -0.9616719196112594,
+          -0.23919589958100151,
+          1.1984957550703854
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    }
+  },
+  "limitations": [
+    "Body/head/waist/base DOFs are not recorded in the 16D sample; no measured body posture is inferred.",
+    "The original T_base_cam_high parent frame is unresolved and the matrix is not selected.",
+    "Selected head pose is provisional EEF PnP (11 approximate manual observations; mean 17.53px, max 36.79px), not independent metric calibration.",
+    "Wrist matrices use the documented tool=vendor flange convention, matched numerically to current asset tool0; no wrist reprojection validation or calibration report is supplied.",
+    "The Rhino gripper transmission remains an uncalibrated simulation approximation; sample normalized openings are not raw joint radians.",
+    "Initial measured state and first commanded action differ; reset uses measured state, not action or their average.",
+    "Selected all physical URDF optical mounts with sample intrinsics; raw hand-eye transforms and EEF-PnP are retained as rejected/unregistered hypotheses. Hardware extrinsics require a new independently verified calibration."
+  ],
+  "rejected_unregistered_cameras": {
+    "head": {
+      "dataset_name": "cam_high",
+      "serial": "936322071480",
+      "image_size": [
+        640,
+        480
+      ],
+      "intrinsic": [
+        [
+          613.1007080078125,
+          0.0,
+          314.2767028808594
+        ],
+        [
+          0.0,
+          612.5927734375,
+          239.26837158203125
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "distortion_model": "inverse_brown_conrady",
+      "distortion_coefficients": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent_frame": "dataset_common_base",
+      "T_parent_camera": [
+        [
+          -0.24174396693706512,
+          -0.2658193111419678,
+          0.9332202076911926,
+          -0.2076951265335083
+        ],
+        [
+          -0.9610345363616943,
+          -0.06728457659482956,
+          -0.26811447739601135,
+          0.25675714015960693
+        ],
+        [
+          0.13406133651733398,
+          -0.9616719484329224,
+          -0.23919589817523956,
+          1.1984957456588745
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "calibration_status": "provisional_eef_pnp"
+    },
+    "left_wrist": {
+      "dataset_name": "cam_left_wrist",
+      "serial": "934222072017",
+      "image_size": [
+        640,
+        480
+      ],
+      "intrinsic": [
+        [
+          613.5473022460938,
+          0.0,
+          312.468505859375
+        ],
+        [
+          0.0,
+          614.1261596679688,
+          231.9669647216797
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "distortion_model": "inverse_brown_conrady",
+      "distortion_coefficients": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent_frame": "left_tool0",
+      "T_parent_camera": [
+        [
+          0.014125262387096882,
+          0.6851905584335327,
+          0.728226900100708,
+          -0.06405587494373322
+        ],
+        [
+          -0.9964096546173096,
+          0.0704476460814476,
+          -0.04695722460746765,
+          0.04044968634843826
+        ],
+        [
+          -0.08347651362419128,
+          -0.7249490022659302,
+          0.6837255358695984,
+          0.24922049045562744
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "calibration_status": "provided_hand_eye_not_independently_validated"
+    },
+    "right_wrist": {
+      "dataset_name": "cam_right_wrist",
+      "serial": "927522071707",
+      "image_size": [
+        640,
+        480
+      ],
+      "intrinsic": [
+        [
+          613.6702880859375,
+          0.0,
+          322.5777893066406
+        ],
+        [
+          0.0,
+          613.1853637695312,
+          238.59214782714844
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "distortion_model": "inverse_brown_conrady",
+      "distortion_coefficients": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "parent_frame": "right_tool0",
+      "T_parent_camera": [
+        [
+          -0.01841890439391136,
+          0.6942325234413147,
+          0.7195150852203369,
+          -0.174791619181633
+        ],
+        [
+          -0.9990959167480469,
+          -0.04035785049200058,
+          0.013363831676542759,
+          0.04668010398745537
+        ],
+        [
+          0.03831568732857704,
+          -0.7186184525489807,
+          0.6943482160568237,
+          0.20357875525951385
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "calibration_status": "provided_hand_eye_not_independently_validated"
+    }
+  },
+  "camera_selection": {
+    "method": "sample_device_intrinsics_with_physical_asset_optical_mounts",
+    "reason": "Raw extrinsic base/tool semantics unresolved in current asset. Unconstrained EEF PnP put head camera behind shoulder and rendered robot occlusion; raw wrist mounts rendered walls without grippers. Do not use invalid views to evolve policy.",
+    "not_claimed": "Exact reproduction of hardware extrinsics or independent hardware calibration",
+    "head_pitch_rad_assumption": 0.05,
+    "sample_head_annotations": "Approximate inconsistent visible points, unsuitable for precise flange PnP",
+    "rejected_render_run": "rgb_25f3d10609a7",
+    "rejected_evidence": "runs/tianji_head_center_20261105_v1/calibration_audit/",
+    "dataset_identity": "Full episode0 and sample episode0 parquet and head video are byte-identical; 3041 rows/frames at 30 FPS."
+  }
+}

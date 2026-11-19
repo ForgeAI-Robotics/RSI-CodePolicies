@@ -1,0 +1,18 @@
+{
+  "PyRUA-Lean": {
+    "url": "https://github.com/DAGroup-PKU/PyRUA-Lean.git",
+    "revision": "ffad6d439f926eea450e9e3d3b3a106438b141b1"
+  },
+  "RPent": {
+    "url": "https://github.com/RLinf/RPent.git",
+    "revision": "886b3b274d3dd30bbc15615ea512d65ae90bc8b3"
+  },
+  "robocasa": {
+    "url": "https://github.com/RLinf/robocasa.git",
+    "revision": "2692d8fc5fd86708a1b2028dcbce892ec418a9e7"
+  },
+  "robosuite": {
+    "url": "https://github.com/RLinf/robosuite.git",
+    "revision": "97cfbde4b68d8ec43dad20cf4747297866a6ca2e"
+  }
+}

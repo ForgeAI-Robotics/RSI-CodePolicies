@@ -1,0 +1,50 @@
+{
+  "name": "tianji_cleanup_rgb_code_policy_experimental",
+  "framework": "PyRUA-Lean",
+  "runtime_model_required": false,
+  "runtime_vla_calls": 0,
+  "observation": "head, left_wrist, right_wrist RGB only",
+  "action_dimension": 16,
+  "right_arm_channels": "unchanged from initial_action",
+  "policy_sha256": "3e3e5eb9c0304eabe8f8a7d001e26a4a9fdcbe4de9f122774c754e9b130f7413",
+  "promotion_status": "not_promoted",
+  "frozen_validation": {
+    "101": {
+      "task_success": false,
+      "evaluation_protocol": "cleanup_cup_to_bin_rgb_v1",
+      "bilateral_contact": [
+        true
+      ],
+      "lift_verified": [
+        true
+      ],
+      "placement_valid": false,
+      "grippers_open": false,
+      "bin_support_verified": true,
+      "hand_detached_after_drop": false,
+      "whole_cup_contained_in_bin": false,
+      "error": "Forbidden robot contact:{'actors': ['/World/CleanupCup', '/s100_tianji_camera_preserved_20261019/root_joint/chassis_base'], 'impulse': [-0.003916258458048105, 0.019581301137804985, 0.03916262835264206], 'separation_m': -0.003950668498873711}",
+      "action_count": 1249
+    },
+    "102": {
+      "task_success": true,
+      "evaluation_protocol": "cleanup_cup_to_bin_rgb_v1",
+      "bilateral_contact": [
+        true
+      ],
+      "lift_verified": [
+        true
+      ],
+      "placement_valid": true,
+      "grippers_open": true,
+      "bin_support_verified": true,
+      "hand_detached_after_drop": true,
+      "whole_cup_contained_in_bin": true,
+      "error": null,
+      "action_count": 1705
+    }
+  },
+  "source_candidate": "runs/tianji_cleanup/final_candidate_20261106_f",
+  "library_version": "v000001-candidate",
+  "scope": "Isaac Sim frozen development validation"
+}

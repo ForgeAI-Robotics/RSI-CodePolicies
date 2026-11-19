@@ -1,0 +1,21 @@
+{
+  "offline_delivery_tests": {
+    "passed": 7,
+    "command": "python -m unittest discover -s tests -v"
+  },
+  "repository_contract_tests": {
+    "passed": 50,
+    "command": "python -m pytest -q tests/test_tianji_simple_policy.py tests/test_tianji_single_left.py tests/test_tianji_fixed_order.py tests/test_tianji_collision_planning.py tests/test_tianji_nearby_acceptance.py tests/test_tianji_transport_tracking.py tests/test_tianji_head_center.py tests/test_tianji_continuous_ik.py tests/test_tianji_rgb_contract.py tests/test_tianji_wrist_profile.py"
+  },
+  "new_simulation_rollouts": 0,
+  "real_robot_tests": 0,
+  "validated_control_environment": {
+    "python": "3.11.13",
+    "numpy": "1.26.4",
+    "scipy": "1.14.1",
+    "opencv-python-headless": "4.11.0.86"
+  },
+  "policy_source": "results/tianji_current_20261106/validated_v000003/policy/policy.py",
+  "perception_source": "tianji/rgb/perception.py",
+  "scope": "Existing native regression retained; new packaging/entrypoint tested offline only."
+}

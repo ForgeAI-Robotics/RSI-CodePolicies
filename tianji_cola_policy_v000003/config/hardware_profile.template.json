@@ -1,0 +1,18 @@
+{
+  "status": "NOT_COMMISSIONED",
+  "driver": null,
+  "robot_serial": null,
+  "control_hz": 20,
+  "joint_order_verified": false,
+  "joint_sign_zero_and_limits_verified": false,
+  "initial_posture_verified": false,
+  "fk_ik_and_tool_frame_verified": false,
+  "three_cameras_intrinsic_extrinsic_verified": false,
+  "rectified_rgb_and_freshness_verified": false,
+  "table_and_can_dimensions_verified": false,
+  "gripper_aperture_mapping_verified": false,
+  "tracking_and_emergency_stop_verified": false,
+  "low_speed_dry_run_verified": false,
+  "supported_release_and_retreat_verified": false,
+  "notes": "仿真参考配置不是已完成的真机标定；此模板不能用于驱动机器人。"
+}

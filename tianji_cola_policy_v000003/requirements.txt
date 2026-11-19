@@ -1,0 +1,4 @@
+# Observed validated control environment: CPython 3.11.13 (not Isaac Python).
+numpy==1.26.4
+scipy==1.14.1
+opencv-python-headless==4.11.0.86

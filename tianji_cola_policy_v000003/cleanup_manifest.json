@@ -1,0 +1,371 @@
+{
+  "selected_policy": "v000003",
+  "removed_files": [
+    {
+      "path": "policies/tianji_rgb_fixed_order_v4/SKILL.md",
+      "bytes": 1622,
+      "sha256": "1b23fabbe53062631f7e9642ad7a588b1211e9e857513f678d690c71c11307ed",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_fixed_order_v4/__pycache__/policy.cpython-310.pyc",
+      "bytes": 33508,
+      "sha256": "7ea51636c3cd556b85e1fb86aa4facad341c0b8c8b5808fa986f52029b150e87",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_fixed_order_v4/policy.py",
+      "bytes": 40642,
+      "sha256": "4d96c961570fe8e3daf68e34f07125ccc351087854ec8cdc907398122fa7d629",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_fixed_order_v4/provenance.json",
+      "bytes": 487,
+      "sha256": "0920dd9e9b51439e4ac4425e49e85c2fe18f5235c56be1e40c82bed89ecf3010",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v1/SKILL.md",
+      "bytes": 2755,
+      "sha256": "641d2d9ae82cfb5faa26edf92acb7fedc7d932c452789f49ca35112ddea7f3a8",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v1/__pycache__/policy.cpython-310.pyc",
+      "bytes": 32245,
+      "sha256": "87390e1a0dba7f0a535426c92e49bd9afabfb0a3e376929a545ccad1069bcac7",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v1/policy.py",
+      "bytes": 40370,
+      "sha256": "0be50ceb2bf2d2a4045f7fb05639533659df04d3de83203aaca490bc3d6b33dd",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v1/provenance.json",
+      "bytes": 1704,
+      "sha256": "fba50c5e6f5880d4412b3c9eab58a7a8186fbf67c72c19ee3cbd6703d83303af",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v2/SKILL.md",
+      "bytes": 4653,
+      "sha256": "fa3defaa0bdfb9b846520aad557c8108997d56dd467b00d410d1b86b6cd6fefb",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v2/__pycache__/policy.cpython-310.pyc",
+      "bytes": 35147,
+      "sha256": "d9c9b423a78046bb68a6ee1ff1e63d7d92b090d4e6b18bc9f4b76c5c22c9202b",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v2/policy.py",
+      "bytes": 44521,
+      "sha256": "0be3073c556cb41fd380f7dc598d71b8f309702d8c70d88b00ad7e006f58967f",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v2/provenance.json",
+      "bytes": 1718,
+      "sha256": "0443febeaff9d2b923c21b5e20124ace23626139d9dc887f344c72fd1cdd92e6",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v3/SKILL.md",
+      "bytes": 3840,
+      "sha256": "5e58f27ff99ea084ba54e0da9f1676e74a2cf2bbd69c15964cf09992098e5c78",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v3/__pycache__/policy.cpython-310.pyc",
+      "bytes": 34878,
+      "sha256": "376e4659f86bf0c17c5be0ad7b4c54999428d845337bd4bf190496edaf46b67e",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v3/policy.py",
+      "bytes": 43936,
+      "sha256": "165ea9a97474ca01e0d801148e1aed2bc45890a279a5d888ee06ae20958582df",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_head_center_v3/provenance.json",
+      "bytes": 2696,
+      "sha256": "68436482dbe2a86240495d00af181b2a6835d61e4d6c5af9534622dc6b66954d",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_planned_v3/SKILL.md",
+      "bytes": 2068,
+      "sha256": "a096e04b0c757f462b463f4426d2b6619c646019dabbc941140f2a046583b348",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_planned_v3/__pycache__/policy.cpython-310.pyc",
+      "bytes": 38748,
+      "sha256": "498826552d5bf83619913e5dadd1e2116a42c9a31ae27e0582247711fcb18917",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_planned_v3/policy.py",
+      "bytes": 51916,
+      "sha256": "c2e991334fb4a9be9034d36834d1bbdeb8c72a326191a348a89f649f2a37641b",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_planned_v3/provenance.json",
+      "bytes": 381,
+      "sha256": "850e4f2589d54c22e907e8ab4bbac9643fafcbfec9d1bff946a9ffa0b4d70767",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_release_v2/SKILL.md",
+      "bytes": 1532,
+      "sha256": "e86c67c80059acfaa05fa559a2849e9183c32c96aa0892bf27b7c7388c39a823",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_release_v2/__pycache__/policy.cpython-310.pyc",
+      "bytes": 32382,
+      "sha256": "9f5ce57878c3e4304f052f2fe5e4f42725a842f60f71bee036480f8b6e64a6d0",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_release_v2/policy.py",
+      "bytes": 37872,
+      "sha256": "a8e42ade998ecf0c090d3e127ad0d9c5e090b29a23c477c4728f5a5daf9ba87d",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_release_v2/provenance.json",
+      "bytes": 486,
+      "sha256": "0eb2123ea8bfe8d86636f8948d8d8e02a42fce7376d85a37fc9a11791e10adb9",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_simple_v8/SKILL.md",
+      "bytes": 3027,
+      "sha256": "523a108ef0d2faade6f4573bcfe6a99e454856329bbbbd321a336c6663db02e6",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_simple_v8/__pycache__/policy.cpython-310.pyc",
+      "bytes": 10822,
+      "sha256": "000cd2635e7b0d1658759085848eabe584ed5084abddc0de38f3369f45ec87cc",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_simple_v8/policy.py",
+      "bytes": 11249,
+      "sha256": "f0ec8530cd61a22377f279c9025d7fe255241a68d2971541610ad9f7b6b3cf6f",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_simple_v8/provenance.json",
+      "bytes": 1981,
+      "sha256": "f25b8345520440bdea62551816fb0125fba95bdc8b5b87a53e85927863ee60bc",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v5/SKILL.md",
+      "bytes": 1674,
+      "sha256": "0ea145085045702d9a03ce53643a942b9a1f5f53fc3e55bb29548b28284db0f6",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v5/__pycache__/policy.cpython-310.pyc",
+      "bytes": 33494,
+      "sha256": "2c7a11abc9e6d392626c4ddec53c79bf5df6d8d9835cc74b1a0c0a54f56cdeda",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v5/policy.py",
+      "bytes": 40482,
+      "sha256": "892234773463df02c7a9b8e60c853e176e475765c1454dd7d5f31233a1f012d6",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v5/provenance.json",
+      "bytes": 824,
+      "sha256": "afc0e155f42eb9d6fd3adfecc872b8c6d866830dd7f70395dfb1dbc88ceaa72d",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v6/SKILL.md",
+      "bytes": 1639,
+      "sha256": "fbd4379cda5395bfed7bd9885338c7e5f5d200d5d7b4461cda216dc9b980db87",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v6/__pycache__/policy.cpython-310.pyc",
+      "bytes": 34243,
+      "sha256": "e7fc916c87ca2c1f93a94dcdd2d12b45d7bb2115b169c1532eedc45dc0354dbc",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v6/policy.py",
+      "bytes": 40837,
+      "sha256": "e7bd6b8c55b037ff3fc2e35f94228689b303984396138ee7b319d28389e9435b",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_single_left_v6/provenance.json",
+      "bytes": 712,
+      "sha256": "ca690fe6951c4ba75f5167102a113e0b4bad3f26fc26845a38b59a0cae75b0ea",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_transport_tracking_v7/SKILL.md",
+      "bytes": 24559,
+      "sha256": "a33be3fb464885ddcf8cbb12f10073dfbb538252eadd56d4c0c7a67e68fee5a4",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_transport_tracking_v7/__pycache__/policy.cpython-310.pyc",
+      "bytes": 54459,
+      "sha256": "c656ac21eb8ac71afb273a2d43d75d5cb0d5bc21614808270ddb2a21b1a9f2e7",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_transport_tracking_v7/policy.py",
+      "bytes": 72123,
+      "sha256": "aacff43044a53f52f9f13c04bbb1df4125e1f115f1a88f06aee89992feb0d14e",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_transport_tracking_v7/provenance.json",
+      "bytes": 449,
+      "sha256": "9e1f9ce06d6506a4b3db92756acd83011b32208c46690e3f6e493a7d58c6434f",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_wrist_aligned_v4/SKILL.md",
+      "bytes": 4920,
+      "sha256": "3aa1397bdb5bcf198f0d337718e2ac24b769b4c187b468a3888b49896652b656",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_wrist_aligned_v4/policy.py",
+      "bytes": 43035,
+      "sha256": "742b6801f0535cba40af3ae7a96d5e12fb0b5b9f3231da921698613a00b2f69c",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "policies/tianji_rgb_wrist_aligned_v4/provenance.json",
+      "bytes": 1136,
+      "sha256": "0ab47744030c52a5824c33baf9aaa9d158ff48a1cc1b8587b2fcf1eb348284ef",
+      "reason": "Retired development candidate; frozen v000003 is the delivery baseline"
+    },
+    {
+      "path": "tests/test_tianji_continuous_policy.py",
+      "bytes": 2811,
+      "sha256": "263df32fe7445159c507a0c314d83e3d19ee4056a84c910e33a11d6774e63ef7",
+      "reason": "Tests only for retired candidate implementations"
+    },
+    {
+      "path": "tests/test_tianji_head_center_policy.py",
+      "bytes": 9297,
+      "sha256": "162c9b005437a9852845b116f12551ee87614a40739a6d15444f736027d61c9e",
+      "reason": "Tests only for retired candidate implementations"
+    },
+    {
+      "path": "tests/test_tianji_head_center_rules.py",
+      "bytes": 4609,
+      "sha256": "dd62fb39ec7c6f8443e0df154a2f44fabfad31971d5876d969f6da778a1d2c15",
+      "reason": "Tests only for retired candidate implementations"
+    },
+    {
+      "path": "tests/test_tianji_release_v6.py",
+      "bytes": 3325,
+      "sha256": "4923fe8be922472941978b0a3c18306cdb077c9be416b7f86750e7995e92f107",
+      "reason": "Tests only for retired candidate implementations"
+    },
+    {
+      "path": "tests/test_tianji_release_vision.py",
+      "bytes": 3265,
+      "sha256": "1bd3b619b7dde03b251719320d32af43c3d10a0fd060f998eb1feb2e682ec934",
+      "reason": "Tests only for retired candidate implementations"
+    },
+    {
+      "path": "configs/tianji-rgb/head_center_continuous_v3_evolution_20261105.json",
+      "bytes": 1403,
+      "sha256": "cd45f6b81afe7c081acd087bfaa158bc13e2a1bdcaa28d660f5eda1cae5665eb",
+      "reason": "Obsolete candidate launch configuration"
+    },
+    {
+      "path": "configs/tianji-rgb/head_center_evolution_20261105.json",
+      "bytes": 1184,
+      "sha256": "e18066ee13a10743cc63e37269404f0465f635be9694b3400e26d58114d378e1",
+      "reason": "Obsolete candidate launch configuration"
+    },
+    {
+      "path": "configs/tianji-rgb/head_center_rules_v2_evolution_20261105.json",
+      "bytes": 1405,
+      "sha256": "59ac8ca371a515c1468fde9b0a87a1eb3b4f99b708103b8fb738bcd9c18cff57",
+      "reason": "Obsolete candidate launch configuration"
+    },
+    {
+      "path": "configs/tianji-rgb/wrist_aligned_v4_evolution_20261105.json",
+      "bytes": 1415,
+      "sha256": "a28e93d3240fe68aa3147413950c440b585bc830b8e985b0f3bcce49ac820d1d",
+      "reason": "Obsolete candidate launch configuration"
+    },
+    {
+      "path": "configs/tianji-rgb/wrist_aligned_v4_evolution_restart_20261105.json",
+      "bytes": 1412,
+      "sha256": "6de00c464ff81fa8ee2a1fc4d22af222e1711d30eb68f7635a4fc48eacd3cbc8",
+      "reason": "Obsolete candidate launch configuration"
+    }
+  ],
+  "modified_files": [
+    {
+      "path": "tests/test_tianji_collision_planning.py",
+      "previous_sha256": "d4242601ef3118789b5769b9da8c871b67a32b753ab8ea93e042ce00512ca298",
+      "current_sha256": "76423e5bb1918ef30c50bec454a0f19bdd44aee290ca2361ee6700217b2d345c"
+    },
+    {
+      "path": "tests/test_tianji_fixed_order.py",
+      "previous_sha256": "9516b68983602c5b4df93aa9d63cce005f092e5bff8107ba09bd38a028dc5c05",
+      "current_sha256": "5619da180f72f23aaf4021cb2cf5d16320327d0ba1b6969d47db076bf727c89d"
+    },
+    {
+      "path": "tests/test_tianji_nearby_acceptance.py",
+      "previous_sha256": "3f85724383e0a2d0b96f63c2f60a09f31175b46adbf7ea3511c2cecadf36a159",
+      "current_sha256": "49c8ad13fc8ba301ce8559e5f58f0e93537bcee64f0c77164e815f4ed9e8b02b"
+    },
+    {
+      "path": "tests/test_tianji_single_left.py",
+      "previous_sha256": "5a7d99478f3bf64e5add7d27936b3ef98b698e68b4cfd743178eee62b0958929",
+      "current_sha256": "872b7e78e59e46ec1598386254c962a7a0a65d51145d5860775113e98a58a4b0"
+    },
+    {
+      "path": "tests/test_tianji_transport_tracking.py",
+      "previous_sha256": "90a38c1008e5b81d344c06df0943bdf08a8ce7087d01098cd24bf531af6cf279",
+      "current_sha256": "b1c8882621513b29900a370932f32498ba31dca239845b58214c968a919b7db4"
+    },
+    {
+      "path": "tests/test_tianji_head_center.py",
+      "previous_sha256": "8eccd33c6a02607f9668bd919b2d7593ab983f15c51345b55253a691a258bca5",
+      "current_sha256": "d232050ea670be4353f0a7d34f8d1682dfa3a77ed69ca77222faa4dd0bda74b8"
+    },
+    {
+      "path": "tests/test_tianji_simple_policy.py",
+      "previous_sha256": "4f010928408fcc836a5a5747bfe56a0a036b0424f057af7a0c5a916069b52c36",
+      "current_sha256": "5f96938e2e8b8fec829c832f274883d6f317ec36b85b8b01f6eaa005692cc364"
+    },
+    {
+      "path": "configs/tianji-rgb/simple_motion_v8_evolution_20261105.json",
+      "previous_sha256": "441d056313e147e516d378894394e6ea2afec148ebf34c0f8663658cf9ba3e43",
+      "current_sha256": "3120bc2767ac31cae9d4c97d1cc05054149a2dc734541fe86cad9cb9afa28404"
+    }
+  ],
+  "removed_bytes": 901898,
+  "kept_for_audit": [
+    "results/tianji_current_20261106",
+    "runs/tianji_parallel/cola_simple_motion_v8_20261105"
+  ],
+  "canonical_candidate": "policies/tianji_cola"
+}

@@ -1,0 +1,61 @@
+{
+  "task_success": true,
+  "evaluation_protocol": "cleanup_cup_to_bin_rgb_v1",
+  "object_count": 1,
+  "final_cans": [
+    {
+      "position_m": [
+        0.1945350468158722,
+        0.4134857654571533,
+        0.02802150696516037
+      ],
+      "orientation_wxyz": [
+        0.8027530312538147,
+        -0.36271196603775024,
+        -0.32553812861442566,
+        0.34358757734298706
+      ],
+      "linear_velocity_m_s": [
+        -0.00016381849127355963,
+        -0.0005721361376345158,
+        -7.705441021244042e-06
+      ],
+      "angular_velocity_rad_s": [
+        0.013614865951240063,
+        -0.008547128178179264,
+        -0.010810335166752338
+      ],
+      "placement_valid": true
+    }
+  ],
+  "bilateral_contact": [
+    true
+  ],
+  "lift_verified": [
+    true
+  ],
+  "grippers_open": true,
+  "bilateral_contact_by_arm": {
+    "left": [
+      true
+    ],
+    "right": [
+      false
+    ]
+  },
+  "lift_verified_by_arm": {
+    "left": [
+      true
+    ],
+    "right": [
+      false
+    ]
+  },
+  "bin_support_verified": true,
+  "hand_detached_after_drop": true,
+  "whole_cup_contained_in_bin": true,
+  "action_count": 1705,
+  "max_actions": 4500,
+  "error": null,
+  "physics_steps": 21180
+}

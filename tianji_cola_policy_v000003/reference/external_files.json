@@ -1,0 +1,445 @@
+{
+  "note": "External model/SDK dependencies, not bundled. References preserve original project imports. No credentials included.",
+  "files": [
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_00_0.stl",
+      "bytes": 6384,
+      "sha256": "419be431cd7b3e08d59165647580c0cc48727b291794a1224731b9fefbc38aec"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_01_0.stl",
+      "bytes": 70884,
+      "sha256": "9b2f4306ed0cbcf66160b3c0a464d5a9f3a7c3437039af212069082f3726fed1"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_02_0.stl",
+      "bytes": 70884,
+      "sha256": "2633b040c1059bec80eb903970b93dc1726491c07c8b6672a6053ac16fc0434f"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_03_0.stl",
+      "bytes": 924984,
+      "sha256": "4f9accb2c81cf02577694c954a60ee1642c917c6b564ec951bc32d396431e6a1"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_04_0.stl",
+      "bytes": 8684,
+      "sha256": "7102d23fe92e31d065f657255e11c258b43d555df578a88c433b9f14315bdc01"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_05_0.stl",
+      "bytes": 5684,
+      "sha256": "b9e5a282daba13738edcb0c423eafb5d0c6fbc60938f9920caf27447122de63b"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_06_0.stl",
+      "bytes": 3084,
+      "sha256": "861231f3bedb7512ba082e14c822fd5c4e6c6b44a824aa360498db324fbffeef"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_07_0.stl",
+      "bytes": 1084,
+      "sha256": "ebdba37644fed692ec1dd375781c4ef6dedeedc8fd634fc0f3375cafa9fa9ba8"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_08_0.stl",
+      "bytes": 1084,
+      "sha256": "57d8d7b8c2eed86e2f204992f092edad8563965091651f66ceef717541d17f09"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_09_0.stl",
+      "bytes": 2334,
+      "sha256": "33cfc55fd3a6d93aa9975ad7c74e522e89a08a09288623c7e6ceaec0cc45511b"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_10_0.stl",
+      "bytes": 2684,
+      "sha256": "8d5826a91467980f3c9e3802f7df4a20b2b291779206cec3db3d821ab8094a1e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_11_0.stl",
+      "bytes": 8684,
+      "sha256": "b03eeb48f1f69f5be68026c5c58136562ea703e522b8500cff84aa012a37f5d5"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_12_0.stl",
+      "bytes": 5000084,
+      "sha256": "89c6e74903d7844229e936b9532244fe2b724c31550b6272d232d778eb43aa93"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_12_1.stl",
+      "bytes": 5000084,
+      "sha256": "57de69cee68721c136bc924af5faaac39a768227a096697eeeac46e3e49c5387"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_12_2.stl",
+      "bytes": 24534,
+      "sha256": "e3bd45b6be1ceff14ac3834bfef02cabee61445ed76ad07ce89068b205b20cc3"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_13_0.stl",
+      "bytes": 1684,
+      "sha256": "6d16ff7224852198ea07598b03cea6a888cc6c390c64044870993ab9b33e908c"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_14_0.stl",
+      "bytes": 362584,
+      "sha256": "a8ce5f573bcf42a72d884b949803d49148e0f63e61b5dbc57113f3abbe5cadf3"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_15_0.stl",
+      "bytes": 29184,
+      "sha256": "eb27cf8f5e63fd8cf639ba461a8ea9d412dcd7ed709ae5724fba2b219a7ca24d"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_16_0.stl",
+      "bytes": 35684,
+      "sha256": "ddbb0cec5067a7c64d9a6faf620b13f42c8908f761e827d92a36a804849b744b"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../../fq/cameras/realsense_d435i/meshes/d435i_17_0.stl",
+      "bytes": 684,
+      "sha256": "0fd45811012a3c4db9f28248145e9f5cf6aee4e32b92412c94390b40ef119ae3"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/base_link.STL",
+      "bytes": 6332884,
+      "sha256": "db66490975c90175b69a62c12586bc47874a0e9d612cedc6eddf2bf84ed14b27"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/coupler_link_L.STL",
+      "bytes": 327284,
+      "sha256": "451d224a506012cd185715ea8e561d8922903107b5020224a33f8e69af7f2a23"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/coupler_link_R.STL",
+      "bytes": 327284,
+      "sha256": "89b852675369231fadf94efed3506063e4239ed8f610ef1aa1a4e6a8eb77623a"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/driver_link_L.STL",
+      "bytes": 149684,
+      "sha256": "580beebb27aa21aeba3cb323c4b8d6afe516e291b09e346dcc6d38feec71fe34"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/driver_link_R.STL",
+      "bytes": 149484,
+      "sha256": "7a4955dad66e9a1700a8758192f91b3443e4b72b879786dc9a30fe267e72a71c"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/follower_link_L.STL",
+      "bytes": 229384,
+      "sha256": "4f137ecbc0197454f86aac244a03ce2a14ff4c369ff5d39a9801b3c687edf82d"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/follower_link_R.STL",
+      "bytes": 229284,
+      "sha256": "4c9293ee9fcf31b0a3103a5aecbdc547dc880ef6943ba84a517d5777606c803e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/spring_link_L.STL",
+      "bytes": 432684,
+      "sha256": "97c71759b15183b6c32e9bf8ceeb6ef14e0897e67366f9de1e217314b16233bb"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/../rhino_v6_gripper/source/meshes/spring_link_R.STL",
+      "bytes": 432684,
+      "sha256": "3fe5a4a7f862ab1d138a3df69d8a8bb52ed93cb2e34a3d74acd8350b09ec0951"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/model.urdf",
+      "bytes": 98244,
+      "sha256": "76726307d0590a713faa67738414985fe028b366676c4997c9c3dea528c4017b"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/cad_00.stl",
+      "bytes": 68884,
+      "sha256": "2b650fd991aedfa51a1f02bf6f4bf9770207f7924fe8378782b9e0cd44d82837"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/cad_10.stl",
+      "bytes": 4323684,
+      "sha256": "1baa97a59f34c92aba5f794d1a4b9172ef7c523466bc001f1ba2278d05689a5c"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/cad_11.stl",
+      "bytes": 2600884,
+      "sha256": "e8598e5f1e6bb1add433bedcade6e4bd52f137e6fb07949ec832fa98c507931e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/cad_12.stl",
+      "bytes": 684,
+      "sha256": "b6882e752026248337d5ede8c5d54d647b87fabd392cc86cdb074995681d6227"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C1_Link.STL",
+      "bytes": 233684,
+      "sha256": "052e10cd98861a71715555bf814c5ede75c69e8b05ee98c882bf750eea475e11"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C2_Link.STL",
+      "bytes": 233684,
+      "sha256": "1c023ddca5078ee68870275a4a899b3752adb361f234f09d0ca68c0b0dd92ac1"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C3_Link.STL",
+      "bytes": 233684,
+      "sha256": "ce48f0cf8debce8f9d644fde89e0ff10e3547c6a7ffb9ac33a7579672e80083f"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C4_Link.STL",
+      "bytes": 233684,
+      "sha256": "6d8d51b867a6d853c4fac66dafeb7fa5ad4b5031b194e2c8de4fb53c03d54ca9"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C5_Link.STL",
+      "bytes": 233684,
+      "sha256": "d4f52d00c87517fe06c7ec49d18aba5b2dbf0286e40b47e33c90e94f3780b0bf"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C6_Link.STL",
+      "bytes": 233684,
+      "sha256": "c2393f3db18f262e7da5894eb57ba64913909875788bf5c7999cecf788f61921"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C7_Link.STL",
+      "bytes": 233684,
+      "sha256": "e810a876a92f6967dec2869372acd38b79e3af28292ebb1147f95a0ae701555e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_C8_Link.STL",
+      "bytes": 233684,
+      "sha256": "3f6d07c99ff997421c3df5a08ba800ccc0e4a51b84110b0068e7e5f331e42788"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_IMU_Link.STL",
+      "bytes": 927334,
+      "sha256": "6001f2f9d53286d79be73b296955109385c86e15047726f9ff819efbd0ff562b"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_XJ_Link.STL",
+      "bytes": 348384,
+      "sha256": "458eaae82acd2fc5e235cf54cf8c9bbbe9ba346d7ccb3f1850ba1578634fa308"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_YD_link.STL",
+      "bytes": 3342134,
+      "sha256": "b5ed163616e45df6d986252a266b5d3044f2a32bd9a2ec5d739e663b502142e6"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_YHL_Link.STL",
+      "bytes": 723984,
+      "sha256": "3097cf99d2d418323bae7ccb98d78077d53125ce2689eae625beb1cd291401f3"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_YH_Link.STL",
+      "bytes": 666484,
+      "sha256": "d595cd013bcdd4a2d5a82ab7634ce22368f1185363c05c39b1a0825abbfa600e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_YLD_Link.STL",
+      "bytes": 1077984,
+      "sha256": "49572969b193dfb488a0d62cc82eb6f4bf63a04b0123b71fe346fd4df9b875d2"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_YQL_Link.STL",
+      "bytes": 723984,
+      "sha256": "f2abde35be39a1502783f24155e04ac9e2048dbdcbb89c6a665c94e5f8ed2049"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_YQ_Link.STL",
+      "bytes": 666484,
+      "sha256": "d595cd013bcdd4a2d5a82ab7634ce22368f1185363c05c39b1a0825abbfa600e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_ZHL_Link.STL",
+      "bytes": 723984,
+      "sha256": "31680aa1241598fa81e5fa15f0414bed48254d6b42c2f374c1b52ac6cb48b64b"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_ZH_Link.STL",
+      "bytes": 666484,
+      "sha256": "5183fe8fb167710d35468702890d61d0cf565ede45a96a0fcb68e49b3f2f3155"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_ZLD_Link.STL",
+      "bytes": 1077984,
+      "sha256": "0e382fefeec2b59a31966cf9488e667388253f1387961dfbe86885f487f88310"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_ZQL_Link.STL",
+      "bytes": 723984,
+      "sha256": "a913e79a4bfee9f5cf8424a6e12a06c51f4bd00e0c664801866147bbdf1feab5"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/s100_ZQ_Link.STL",
+      "bytes": 666484,
+      "sha256": "5183fe8fb167710d35468702890d61d0cf565ede45a96a0fcb68e49b3f2f3155"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Base_L.STL",
+      "bytes": 204584,
+      "sha256": "f22c309ed8cacd2fc776e2f72a2fc5618d9da84315267377edd3205e91ebbcb5"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Base_R.STL",
+      "bytes": 204584,
+      "sha256": "f22c309ed8cacd2fc776e2f72a2fc5618d9da84315267377edd3205e91ebbcb5"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link1_L.STL",
+      "bytes": 563584,
+      "sha256": "d00097eec49600a4111ee5a124d6636f50ea09a7a1dc8486d98f4370dde7a932"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link1_R.STL",
+      "bytes": 563584,
+      "sha256": "fdb1075fe0b41e5c2cb7c2fe13c9d2e62ff4dd6eb540ea841b8603db28369dd0"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link2_L.STL",
+      "bytes": 1278784,
+      "sha256": "4776a6a2086ddc61b1643aff93386e545baccef2751db29d863fe027a76f325e"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link2_R.STL",
+      "bytes": 1278784,
+      "sha256": "53eb9fc69c939d2ebd4f32c1df341c1c42bc3d9d0911db0c9fcee70aa2701b34"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link3_L.STL",
+      "bytes": 635484,
+      "sha256": "d58f1039bd3eb2ccc1a1959b89d2de7ae714344ad8cb8b78ef97b92dcd317d26"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link3_R.STL",
+      "bytes": 635484,
+      "sha256": "122456d8fc3e81694f352fc1f29d0bc19066f7f3d7572857a1be1e7c030dec9c"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link4_L.STL",
+      "bytes": 1263484,
+      "sha256": "77f18566339f38acac1785fae517b05ff1e5247b95404ce26536d215bbed9cd7"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link4_R.STL",
+      "bytes": 1263484,
+      "sha256": "77f18566339f38acac1785fae517b05ff1e5247b95404ce26536d215bbed9cd7"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link5_L.STL",
+      "bytes": 1176084,
+      "sha256": "573f15ee62b0a9b2d62aceeb756800fd86969a685535e91416b73d51f1c57613"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link5_R.STL",
+      "bytes": 1196684,
+      "sha256": "2de51a340695c89b2fd58b1171dfacc4d85aa4e6cd50879e021a2d0bde8599a8"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link6_L.STL",
+      "bytes": 310884,
+      "sha256": "b6b7570d8ebf1d2acb01baf8941b892f5a5f72aaa05503ab8340da8a2a7b2c13"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link6_R.STL",
+      "bytes": 310884,
+      "sha256": "49722d14b9ac34a84a41c95f49bd0b2a8859d4a05f66b247822bf36b0a703cd5"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link7_L.STL",
+      "bytes": 2557184,
+      "sha256": "126cc7d41c37049ce34d2636bfe2d460c21e3429ed080877d1c5e983109ef798"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_Link7_R.STL",
+      "bytes": 2577384,
+      "sha256": "6eb75b059ff383e90a153be840bcce84b23d8f8afd074b1bc9dfec1b18c2351f"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_adapter_flange.stl",
+      "bytes": 663084,
+      "sha256": "ee4d43d017372cede83e08f092c11f0edbd595f67792be026974f8df8c001666"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_01.stl",
+      "bytes": 281084,
+      "sha256": "74e9940a7305ab476dd57a62a7e146f79cd011bc4ec5d892dc0afcfeb1709030"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_02.stl",
+      "bytes": 1754484,
+      "sha256": "6d38ccc4a0146776beab49b84233206b13f073072ef72ffa66c793626989bb3d"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_03.stl",
+      "bytes": 1461084,
+      "sha256": "091b850ff0607f6bae0347cc6bb5252bd902deec922b1880dd6a7372d4aa6bc0"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_04.stl",
+      "bytes": 1120884,
+      "sha256": "53c4faeaea688a1b91316af54eda668fb8b1ec1cb5eeeb6f924ee211014e5a95"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_05.stl",
+      "bytes": 123984,
+      "sha256": "ba4aad72f12d6b5a3ae19834b744130d8a31a4a11321df3d0898b45a4ec59a3f"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_06.stl",
+      "bytes": 72284,
+      "sha256": "c621e906e89a6ca272cc7b87c406806fc3a4d9b83ca0501ece0c6fcbe164b671"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_07.stl",
+      "bytes": 92884,
+      "sha256": "462cf304a4cb5a0c799d4c03de591ecb6d4bf1e40040a85a6f0459df20ac0126"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_08.stl",
+      "bytes": 74684,
+      "sha256": "6a2ec3a844e08455e4c6d8dee260bfeaf560fafafc761f5f107f1bf77d7e8ca7"
+    },
+    {
+      "repository_path": "assets/airport/fq-assets-isaac/assets/user_supplied/tianji_robot/source/meshes/upper_head_part_09.stl",
+      "bytes": 1924884,
+      "sha256": "7522b6222dcbb5d213d629599b8f5fc5ce24f679efcc3fccd64d473ed039b786"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/TJ_FX_ROBOT_CONTRL_SDK-master/CommonConfig/ccs_m6_40.MvKDCfg",
+      "bytes": 2887,
+      "sha256": "ce20b1a80974c3ed58cdac4973152625096c8ad93a779e5fd4108c26ce19bd52"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/TJ_FX_ROBOT_CONTRL_SDK-master/SDK_PYTHON/fx_kine.py",
+      "bytes": 74330,
+      "sha256": "690d26826c7b4112e3c9b088d2e21aac3154f05e6a32a368503ecd42901d048d"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/TJ_FX_ROBOT_CONTRL_SDK-master/SDK_PYTHON/libKine.so",
+      "bytes": 314448,
+      "sha256": "f1512f8e440b53614b8d61adc27b217cab1b97d8bb9a80e32e00c880eee73397"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/TJ_FX_ROBOT_CONTRL_SDK-master/kinematicsSDK/libKine.so",
+      "bytes": 314368,
+      "sha256": "e22fd01916aaedd598d774a1649abe9cbb49223298767dba2eea543feb003218"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/offline_fk_example.py",
+      "bytes": 5804,
+      "sha256": "8f1cc9fafce14e2b95162f1e4a3c7469f202149bb302e3891775ac2820e8b1a2"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/tianji_recording/__init__.py",
+      "bytes": 67,
+      "sha256": "28461ddf54135f7a67c4989fc4d0cb756cd8f3b05b62980bbe2ef607b09dac77"
+    },
+    {
+      "repository_path": "assets/tianji/m6_v4/vendor_bundle/tianji_recording/kinematics.py",
+      "bytes": 6453,
+      "sha256": "935d0fd6b023cdd9b086e5962c97b6cdbf5fd2c7616d29c06c0b97d29ef85ee3"
+    }
+  ]
+}

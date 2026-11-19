@@ -1,0 +1,100 @@
+{
+  "task": "single_left_head_center",
+  "evaluation_protocol": "single_left_head_center_sample_v1_sample_wrist_v1",
+  "observations": {
+    "cameras": [
+      "head",
+      "left_wrist",
+      "right_wrist"
+    ],
+    "format": "RGB uint8 640x480",
+    "static_robot_camera_model": true,
+    "own_command_history": true,
+    "scene_truth": false,
+    "measured_joint_state": false,
+    "depth": false
+  },
+  "actions": {
+    "dimensions": 16,
+    "rate_hz": 20,
+    "right_arm": "hold sampled initial command"
+  },
+  "policy_runtime": {
+    "llm_calls": 0,
+    "vla_calls": 0
+  },
+  "training": {
+    "framework": "PyRUA-Lean",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "high",
+    "turn_budget": 16,
+    "episode_budget_s": 600
+  },
+  "acceptance": "native bilateral left contact and lift, released tabletop support in central 20% of head image; frozen full-workflow replay",
+  "camera_profile": "sample_wrist_v1",
+  "cases": [
+    {
+      "seed": 101,
+      "scenario": "combined_goal",
+      "repeat": 0
+    },
+    {
+      "seed": 102,
+      "scenario": "pick_goal",
+      "repeat": 0
+    },
+    {
+      "seed": 101,
+      "scenario": "combined_goal",
+      "repeat": 1
+    },
+    {
+      "seed": 102,
+      "scenario": "pick_goal",
+      "repeat": 1
+    },
+    {
+      "seed": 101,
+      "scenario": "pick_goal",
+      "repeat": 0
+    },
+    {
+      "seed": 103,
+      "scenario": "combined_goal",
+      "repeat": 0
+    },
+    {
+      "seed": 101,
+      "scenario": "pick_goal",
+      "repeat": 1
+    },
+    {
+      "seed": 103,
+      "scenario": "combined_goal",
+      "repeat": 1
+    },
+    {
+      "seed": 102,
+      "scenario": "combined_goal",
+      "repeat": 0
+    },
+    {
+      "seed": 103,
+      "scenario": "pick_goal",
+      "repeat": 0
+    },
+    {
+      "seed": 102,
+      "scenario": "combined_goal",
+      "repeat": 1
+    },
+    {
+      "seed": 103,
+      "scenario": "pick_goal",
+      "repeat": 1
+    }
+  ],
+  "native_successes": 12,
+  "case_count": 12,
+  "scope": "fixed regression matrix; held-out layouts not evaluated"
+}
