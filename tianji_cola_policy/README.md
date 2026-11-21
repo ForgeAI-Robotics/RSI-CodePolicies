@@ -1,12 +1,14 @@
 # Tianji 单左臂可乐 Policy 交付包
 
-本包交付 `v000003`：左臂抓取桌上单个红色可乐罐，搬到 **head 图像中央 20% 区域**，放下、释放并撤离。右臂保持初始指令。运行策略不调用 LLM、VLA 或网络服务。
+策略使用左臂抓取桌上单个红色可乐罐，搬到 **head 图像中央 20% 区域**，放下、释放并撤离。右臂保持初始指令。运行策略不调用 LLM、VLA 或网络服务。
 
 ## 演示
 
 ![抓可乐成功回放的三路相机画面](evidence/success_preview.jpg)
 
-Isaac Sim 成功实例展示左臂抓罐、搬运、释放和撤离，视频为 2 倍速。[观看三视角回放](evidence/success.mp4)
+本次 Isaac Sim 发布验证使用 seed 101、`combined_goal`，从复位执行抓罐、搬运、释放和撤离，原生判定成功。
+
+[观看三视角成功回放（2 倍速）](evidence/success.mp4) · [原生判定](evidence/release_verdict.json)
 
 ## 交付内容
 

@@ -5,7 +5,7 @@
   "sha256": {
     ".gitignore": "ef74b0226ce2acb267fa41402dd7040fe13bfd2c3826fe441d1b61deef7cf711",
     "DEPLOYMENT.md": "a58579b4230af13d66c550119d79080169f402e90dff87c109ac9ea6b112aac4",
-    "README.md": "5a091ba5cce5e0d74d3406e3ef02d9eae230036d532852adfebbb79e2107ae5d",
+    "README.md": "ad250c0a148f9a0f8e8bbdd4c450344bc635b78f49e2cb032cf31c2d292f370e",
     "check_delivery.py": "1df729d03f4015567e2f30537f0eaa7d72f1b703109ada2d106d7cfefb3a303d",
     "cleanup_manifest.json": "7375bb9fead91b2740276fbdd6cecb75fb85dd2e33977b8e522fbd923b4d4fff",
     "config/hardware_profile.template.json": "e70edddfba11baa5843c728eb0238b3a22b7df22641b6671da9cb12ae92133fa",
@@ -15,7 +15,7 @@
     "config/tianji-meeting-assets.lock.json": "f9dbf7c4ff9e36b0cec82ab250f0dbd88589d199c9c62362d5f03eefa773bb01",
     "config/wrist_alignment_profile.json": "9a22d43188d3dc599e65eebfab23411b5bdbbe583525f93cd766877793651fdc",
     "evidence/full_matrix.json": "4542e025c5fe708f2d6cc8ecebc0f7398a4c386b39f54d63bf740fcc44c8a437",
-    "evidence/success.mp4": "d0cc56fb2b0e3314674d19552e8d0e612c5cc9ff6504f473d6f455d4759df99d",
+    "evidence/success.mp4": "6147e5bfaaaca5ec89dda0aa6574d14680b4f285db8015b6bf964c0052967338",
     "evidence/summary.json": "b5378f3739e922325c8dd647e8992f1e13b201c3a2a0b140ae4b66685d3c2961",
     "evidence/task_protocol.json": "eb3bc8b037c4e3c7e6a0c44051fae7cf01304b50eac53a939293809b133a3f36",
     "reference/external_files.json": "6e6a736c1d541fd1a4a0cb14b0ac44febed8c5f62affa286f4e07e06957b561a",
@@ -37,6 +37,8 @@
     "tianji_cola/policy.py": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
     "tianji_cola/run.py": "6e2ee23f569cae1c2029e4288c99072ca9f8d06faf29bf7ec26546b151e7c3ae",
     "verification.json": "51e8cb9473be5793c15ed430aef2ba13a23943f8dfd3be04f3edfe4a05fb0954",
-    "evidence/success_preview.jpg": "f2529f6ab776e81e06e01151602e648e550dbfb714525821b79b48e54f7d58e3"
+    "evidence/success_preview.jpg": "6171d1174753ad422035ec573128517af70bfcf37a2a80f6b07bbc1df32007c7",
+    "evidence/release_result.json": "1dc1f705188f484ef06c42a73e52f258a59102a4b7d8dceda9a0f5fc93b817cb",
+    "evidence/release_verdict.json": "f638be3038545e4c246833d7de2469600291303d5ad57086c0493ab515e8400c"
   }
 }

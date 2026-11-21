@@ -1,0 +1,87 @@
+{
+  "status": "completed",
+  "reason": null,
+  "error_type": null,
+  "error_message": null,
+  "traceback": null,
+  "elapsed_s": 148.1691774702631,
+  "policy_return": {
+    "status": "visually_complete",
+    "completed_subtasks": [
+      {
+        "subtask": "initialize_scene",
+        "can_index": null
+      },
+      {
+        "subtask": "perceive_select",
+        "can_index": 0
+      },
+      {
+        "subtask": "approach",
+        "can_index": 0
+      },
+      {
+        "subtask": "align_grasp",
+        "can_index": 0
+      },
+      {
+        "subtask": "close_lift",
+        "can_index": 0
+      },
+      {
+        "subtask": "transport_align",
+        "can_index": 0
+      },
+      {
+        "subtask": "place_release",
+        "can_index": 0
+      },
+      {
+        "subtask": "verify_placement",
+        "can_index": 0
+      },
+      {
+        "subtask": "finalize",
+        "can_index": null
+      }
+    ],
+    "failed_subtask": null,
+    "can_index": null
+  },
+  "environment_success": true,
+  "seed": 101,
+  "scenario": "combined_goal",
+  "worker_slot": 0,
+  "llm_calls": 0,
+  "vla_calls": 0,
+  "policy_sha256": "2569babba60a3f8be6afd1db02d6b8048773fd76abcd18453de532376173188f",
+  "repeat": 0,
+  "from_reset": true,
+  "evaluation_scope": "full_workflow",
+  "target_stage": null,
+  "object_count": 1,
+  "evaluation_protocol": "single_left_head_center_sample_v1_sample_wrist_v1",
+  "native_evidence": {
+    "bilateral_contact": [
+      true
+    ],
+    "lift_verified": [
+      true
+    ],
+    "placement_valid": [
+      true
+    ],
+    "object_indices_in_execution_order": [
+      0
+    ],
+    "expected_arms": [
+      "left"
+    ]
+  },
+  "single_left_contract": {
+    "object_count": 1,
+    "expected_arm": "left",
+    "wrong_arm_lift": false,
+    "complete": true
+  }
+}

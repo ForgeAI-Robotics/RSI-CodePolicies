@@ -1,0 +1,115 @@
+{
+  "camera_profile": "sample_wrist_v1",
+  "evaluation_protocol": "single_left_head_center_sample_v1_sample_wrist_v1",
+  "task_success": true,
+  "grippers_open": true,
+  "placement_assignment": [
+    [
+      0.513652932978549,
+      0.0312697253620917
+    ]
+  ],
+  "final_cans": [
+    {
+      "index": 0,
+      "position_m": [
+        0.45718061923980713,
+        0.08982444554567337,
+        0.8227049708366394
+      ],
+      "orientation_wxyz": [
+        0.17828701436519623,
+        8.392859308514744e-05,
+        0.00014224942424334586,
+        0.9839785695075989
+      ],
+      "velocity_m_s": [
+        -0.00022980438370723277,
+        9.185045200865716e-06,
+        -2.1145757273188792e-05
+      ],
+      "angular_velocity_rad_s": [
+        0.0002361782972002402,
+        -0.0008596366969868541,
+        -0.0039027624297887087
+      ],
+      "placement_valid_raw_velocity": false,
+      "pose_motion_window": {
+        "duration_s": 0.5499999999999972,
+        "linear_velocity_m_s": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "angular_velocity_rad_s": [
+          -0.0,
+          -0.0,
+          -0.0
+        ],
+        "max_linear_speed_m_s": 0.0,
+        "max_angular_speed_rad_s": 0.0
+      },
+      "placement_valid": true,
+      "strict_placement_valid": false,
+      "image_center_evidence": {
+        "valid": true,
+        "projected_uv": [
+          267.7916972566919,
+          274.51307375884676
+        ],
+        "target_uv": [
+          320.0,
+          240.0
+        ],
+        "half_window_px": [
+          64.0,
+          48.0
+        ],
+        "geometric_tabletop_support": true
+      }
+    }
+  ],
+  "bilateral_contact": [
+    true
+  ],
+  "lift_verified": [
+    true
+  ],
+  "initial_right_to_left_object_indices": [
+    0
+  ],
+  "object_count": 1,
+  "task_variant": "single_left_head_center",
+  "bilateral_contact_by_arm": {
+    "left": [
+      true
+    ],
+    "right": [
+      false
+    ]
+  },
+  "lift_verified_by_arm": {
+    "left": [
+      true
+    ],
+    "right": [
+      false
+    ]
+  },
+  "first_lift_step_by_arm": {
+    "left": [
+      8316
+    ],
+    "right": [
+      null
+    ]
+  },
+  "policy_observation": "three RGB images only",
+  "action_dimension": 16,
+  "llm_calls_in_frozen_policy": 0,
+  "vla_calls": 0,
+  "action_count": 1071,
+  "max_actions": 4500,
+  "error": null,
+  "physics_steps": 13572
+}

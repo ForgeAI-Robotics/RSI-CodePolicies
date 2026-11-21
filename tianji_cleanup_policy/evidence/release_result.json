@@ -1,0 +1,49 @@
+{
+  "status": "completed",
+  "reason": null,
+  "error_type": null,
+  "error_message": null,
+  "traceback": null,
+  "elapsed_s": 175.3057636031881,
+  "policy_return": {
+    "status": "released_and_retreated",
+    "ticks": 1705,
+    "evidence": "Program completion only; native validation required"
+  },
+  "environment_success": true,
+  "seed": 102,
+  "scenario": "nominal",
+  "worker_slot": 0,
+  "llm_calls": 0,
+  "vla_calls": 0,
+  "policy_sha256": "3e3e5eb9c0304eabe8f8a7d001e26a4a9fdcbe4de9f122774c754e9b130f7413",
+  "repeat": 0,
+  "from_reset": true,
+  "evaluation_scope": "full_workflow",
+  "target_stage": null,
+  "object_count": 1,
+  "evaluation_protocol": "cleanup_cup_to_bin_rgb_v1",
+  "native_evidence": {
+    "bilateral_contact": [
+      true
+    ],
+    "lift_verified": [
+      true
+    ],
+    "placement_valid": [
+      true
+    ],
+    "object_indices_in_execution_order": [
+      0
+    ],
+    "expected_arms": [
+      "left"
+    ]
+  },
+  "single_left_contract": {
+    "object_count": 1,
+    "expected_arm": "left",
+    "wrong_arm_lift": false,
+    "complete": true
+  }
+}

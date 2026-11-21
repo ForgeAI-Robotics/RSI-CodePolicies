@@ -46,5 +46,14 @@
   },
   "source_candidate": "runs/tianji_cleanup/final_candidate_20261106_f",
   "library_version": "v000001-candidate",
-  "scope": "Isaac Sim frozen development validation"
+  "scope": "Isaac Sim frozen development validation",
+  "release_validation": {
+    "seed": 102,
+    "scenario": "nominal",
+    "native_success": true,
+    "video": "evidence/success.mp4",
+    "video_sha256": "2893418b88553db218a1e23de6656386945232c92ed4e8b15f05b5772f3c6ebb",
+    "result": "evidence/release_result.json",
+    "verdict": "evidence/release_verdict.json"
+  }
 }
